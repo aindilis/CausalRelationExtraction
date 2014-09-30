@@ -1,0 +1,48 @@
+Dear Johan Bos, Please forgive this letter.
+I am an independent (read - "quack") AI researcher.
+I wrote the "free logic form" system on freshmeat - well, before I was aware of Boxer or DRS etc. It post-processed a dependency parser (enju / mogura) to get it's logic forms.
+The reason I am writing you is that I am starved for collaborators who can develop cutting edge tools.
+I figure, rather than beat around the bush and try to train a few programmers out here on computational semantics, I should just offer my services to you to help you/me. What I am looking for is an NLU system.
+I really like what you're/were doing with Boxer/NutCracker.
+I do not know what areas you are presently researching.
+What I am working on is making Emacs the most powerful semiotic processing system available.
+Well, more so than it already is. If you do not care about Emacs, do not worry, because the hard stuff is all implemented as a separate system and is callable from any environment (openoffice/etc (actually I am writing the Irish Gaeilge plugin for Gramadoir (Irish language checker) for OpenOffice)).
+Anyways, I am including the presentations.
+What I am really interested in working on is arbitrary document understanding.
+The context of the document includes everything that we can compute.
+I also work a lot with, not really underspecified semantics, but with breaking a text down in character spans and proving theorems about those spans, either in modal or regular logics.
+The idea is to say, well, this word may have meant this, this word may be OCR junk, this looks like a conjoined word, the author may have meant "peas instead of peace", every kind of analysis where the machine must guess at the meaning in the larger context, and be error sensitive.
+Sort of like those documents where historians are arguing about ancient texts that are missing a few characters, or about discrepancies in the documents.
+I also break down the text and try to prove things, such as entity links, by referencing proofs in context, and always present the selection choices and the ones which have been ruled out - all I would think non-monotonically, to allow for additions to context, etc. I am developing a comprehensive ontology of tag-suites.
+Oh about me, I have schizophrenia and so if my luck keeps up I have a kind of disability tenure.
+Yes - too much stress and I go sideways...
+really kind of convenient for someone whose only love is research and AI (well and a girl but she's not interested - which is good for the AI).
+So, the reason I am writing you is you're the only person or rather the first person to have released an RTE system that works on the semantics.
+So, what I am proposing is that we start by you siphoning a few non-critical tasks to me and we see how well that goes.
+What I really want to is obtain a partner for the development of free and open source textual understanding and reasoning tools.
+If I'm not mistaken, your system always assumes a factual or literal context?
+Etc, things like that.
+Could be expanded in so many ways.
+The NLU system I am working on, and I'm not trying to recruit you to it but to inform you, works by proving what it thinks are the referents of an object, in the case of text snippets with referents.
+It then invokes sort of a decision tree to prove additional theorems.
+So for instance, if it recognizes "Carla" as a named NE, then it may as well also prove: ("isa" ("object-referred-to-by-string" ("range" 0 4) "Female Name")) Or some such stuff.
+Depending on context, it tries to add additional information, if the context supports it.
+So if it was pretty clear that there was a person being referred to by the name, and there was no reason to think otherwise, it would suppose that there existed a female referrent.
+One of the things I hate in reading web documents on NLU or computational semantics is they will say you can rule a particular sense out.
+Here, I can remember an example.
+"The box is in the pen".
+They say you can rule out the sense of writing utility for "pen", based on knowledge of common object sizes.
+Well that's not strictly correct, I have seen pens which have little clear plastic areas and small things floating free in those areas, some square, which could in theory be empty on the inside.
+So it just seems to arbitrary to say this is ruled out.
+I think what would be better would be to work from certain inferences.
+A certain inference in this case could be that this document, signed by this cryptosignature, contains the string, such and such.
+That would be a sometimes false, based on the inconsistency of the computer system, but a better inference than the one I had just mentioned.
+If something needs to be supposed, you may additionally suppose it - such as ("suppose" ("not" ("has-sense" ("substr" ("object" 352235) 34 37) "pen#n#4"))) State space explosion is okay because we can simply use constraint satisfaction and model checking.
+Ultimately it would be nice to have the system behave such that it could find unique models for all communications, or at least reason with the models it does have to answer certain questions.
+Well I have to go but hopefully you see where I am coming from.
+I am guessing that you being an expert in the field can recommend some reading.
+Of course, your book comes to mind - but no, I have no money, so I cannot buy it.
+Nevertheless, I will find it somehow, and read it.
+Please let me know if you are interested in collaborating.
+Here are some links to some stuff I am working on.
+http://frdcsa.org/~andrewdo/writings/workhorse.odp http://frdcsa.org/~andrewdo/projects/nlu http://frdcsa.org/~andrewdo/projects/nlu/notes-axiomatized.txt http://frdcsa.org/~andrewdo/projects/nlu/kmax.odp http://frdcsa.org http://frdcsa.org/~andrewdo http://frdcsa.org/~andrewdo/writings/nlu.txt

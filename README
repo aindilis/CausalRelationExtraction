@@ -1,0 +1,15 @@
+README
+
+you should be able to build with 'mvn clean package'.  Please note you
+have to correct the location in the pom.xml for the
+stanford-parser-3.4.1-models.jar which isn't available afaik in the
+Maven Central Repository.
+
+You also have to supply the correct location for the
+stanford-parser-3.4.1.jar and the stanford-parser-3.4.1-models.jar to
+the ./run.pl script invocation of java.
+
+You also have to install the perl modules depended on by ./run.pl.
+
+usage: ./run.pl ./test
+
