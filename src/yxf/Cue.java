@@ -31,7 +31,7 @@ public class Cue {
 	Tree cueNode;
 	Set<TreeGraphNode> cause ;
 	Set<TreeGraphNode> effect;
-	List<TreeGraphNode> coreCue;
+	ArrayList<TreeGraphNode> coreCue;
 	public Cue(){
 		 
 		 causeString ="";
@@ -123,11 +123,11 @@ public class Cue {
 		this.effect = effect;
 	}
 
-	public List<TreeGraphNode> getCoreCue() {
+	public ArrayList<TreeGraphNode> getCoreCue() {
 		return coreCue;
 	}
 
-	public void setCoreCue(List<TreeGraphNode> coreCue) {
+	public void setCoreCue(ArrayList<TreeGraphNode> coreCue) {
 		this.coreCue = coreCue;
 	}
 	
@@ -151,7 +151,6 @@ public class Cue {
 		this.effectString = effectstring;
 	}
 	public void print(BufferedWriter f) throws IOException{
-		
 		
 		f.write("["+causeString+"]C");
 		f.write("["+coreCue.get(0).value()+"]R");

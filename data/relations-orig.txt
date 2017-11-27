@@ -1,0 +1,233 @@
+{Johan Bos}{Dear}{ Dear Johan Bos  forgive  forgive }
+-
+-
+{I}{wrote}{ the `` free logic form '' system }
+{I}{aware}{ of Boxer or DRS }
+{I wrote the `` free logic form '' system}{on}{ freshmeat }
+{It etc. .}{post-processed}{ a dependency parser -LRB- enju / mogura -RRB- }
+{I was aware of Boxer or DRS etc. . It post-processed a dependency parser -LRB- enju / mogura -RRB- to get}{before}{ well  ,  before I was aware of Boxer or DRS etc. . It post-processed a dependency parser -LRB- enju / mogura -RRB- to get  logic forms }
+-
+{who collaborators}{develop}{ cutting edge tools }
+{The reason I}{writing}{ you }
+{The reason I am writing you}{is}{ that I am starved for collaborators who can develop cutting edge tools }
+{I}{starved}{ for collaborators who can develop cutting edge tools }
+-
+{I figure , rather than beat around the bush and try to train a few programmers out here}{on}{ computational semantics }
+{I figure , rather than}{beat}{ the bush }
+{you/me . I What}{looking}{ for is an NLU system }
+{I figure , rather than beat around the bush and try to train a few programmers out here on computational semantics I}{offer}{ my services }
+{I figure , rather than beat around the bush and}{try}{ to train a few programmers out here on computational semantics }
+{I figure , rather than beat around the bush and try to}{train}{ a few programmers }
+{I should just offer my services}{to}{ you }
+-
+{I}{like}{ what you 're / were doing with Boxer/NutCracker }
+{what you}{/}{ were doing with Boxer/NutCracker }
+{you 're / were doing}{with}{ Boxer/NutCracker }
+-
+{I}{know}{ what  areas you are presently researching }
+{areas}{researching}{ you }
+-
+{What}{working}{ I }
+{What I am working on}{making}{ Emacs the most powerful semiotic processing system available }
+{making}{system}{ Emacs }
+-
+{do not worry , because the hard stuff is all implemented as a separate system}{callable}{ from any environment }
+{}{than}{ it already is }
+{you do not care about Emacs}{If}{ If you do not care about Emacs  worry , because the hard stuff is all implemented as a separate system  worry }
+{I}{writing}{ the Irish Gaeilge plugin for Gramadoir -LRB- Irish language checker -RRB- for OpenOffice }
+{you}{care}{ about Emacs }
+{the Irish Gaeilge plugin}{for}{ for OpenOffice }
+{worry}{because}{ the hard stuff is all implemented as a separate system }
+{Gramadoir -LRB- Irish language checker -RRB-}{for}{ OpenOffice }
+{the hard stuff}{implemented}{ as a separate system }
+-
+{I}{including}{ the presentations }
+-
+{What I}{interested}{ in working on }
+-
+{The context}{of}{ the document }
+{The context of the document}{includes}{ everything  that we can compute }
+{The context of the document includes everything}{that}{ we can compute }
+-
+{I}{work}{ a lot }
+{I work a lot with , not really underspecified semantics , but with breaking a text down}{in}{ character spans }
+{I work a lot with , not really underspecified semantics , but with breaking a text down in character spans and}{proving}{ theorems about those spans }
+{theorems}{about}{ those spans }
+{I work a lot}{with}{ breaking a text down in character spans and proving theorems about those spans }
+{with breaking a text down}{in}{ modal or regular logics }
+-
+{the author}{meant}{ `` peas instead of peace '' , every kind of analysis }
+{The idea}{is}{ to say }
+{peas}{of}{ peace }
+{every kind}{of}{ analysis }
+{this word}{meant}{ this }
+{the machine}{guess}{ at the meaning in the larger context }
+{the meaning}{in}{ the larger context }
+{this}{looks}{ like a conjoined word }
+-
+{Sort}{of}{ like those }
+{or about discrepancies}{in}{ the documents }
+{historians}{arguing}{ about ancient texts that are missing a few characters , or about discrepancies in the documents }
+{that ancient texts}{missing}{ a few characters , or about discrepancies in the documents }
+-
+{I}{break}{ the text }
+{the ones}{ruled}{ which }
+{I break down the text and}{try}{ to prove things , such as entity links , by referencing proofs in context }
+{I break down the text and try to}{prove}{ things , such as entity links , }
+{I}{think}{ non-monotonically }
+{things}{as}{ entity links }
+{I would think non-monotonically , to allow}{for}{ additions }
+{I would think non-monotonically ,}{to}{ context , etc. . }
+{I break down the text and try to prove things , such as entity links ,}{by}{ referencing proofs in context }
+{I break down the text and try to prove things , such as entity links , by referencing proofs}{in}{ context }
+{I}{developing}{ a comprehensive ontology of tag-suites }
+{I break down the text and try to prove things , such as entity links , by referencing proofs in context , and always}{present}{ the selection choices and the ones which have been ruled out }
+{a comprehensive ontology}{of}{ tag-suites }
+-
+{Oh about me , I I}{have}{ a kind of disability tenure }
+{Oh}{about}{ me }
+{a kind}{of}{ disability tenure }
+{I}{have}{ schizophrenia }
+{my luck keeps up}{if}{ if my luck keeps up  have  have }
+-
+-
+{kind}{of}{ convenient for someone }
+{convenient}{for}{ someone }
+{well and a girl}{interested}{ she }
+{which}{good}{ for the AI }
+-
+{the first person you 're the only person}{released}{ an RTE system that works on the semantics }
+{I the reason}{writing}{ you }
+{that an RTE system}{works}{ on the semantics }
+-
+{you siphoning a few non-critical tasks}{to}{ me }
+{I what}{proposing}{ proposing  that we start by you siphoning a few non-critical tasks to me }
+{we what I am proposing is that we start by you siphoning a few non-critical tasks to me}{see}{ how well that goes }
+{we}{start}{ by you siphoning a few non-critical tasks to me }
+{you}{siphoning}{ a few non-critical tasks }
+-
+{What I}{want}{ to is }
+{I want to}{is}{ is  a partner }
+{obtain}{for}{ the development of free and open source textual understanding and reasoning tools }
+{the development}{of}{ free and open source textual understanding and reasoning tools }
+-
+{I 'm not mistaken}{If}{ If I 'm not mistaken  assumes  assumes }
+{your system}{assumes}{ a factual or literal context }
+-
+{things}{like}{ that }
+-
+{expanded}{in}{ so many ways }
+-
+{The NLU system I am working on , and I 'm not trying to recruit you to it but to inform you , works by proving what it thinks}{referents}{ of an object }
+{the referents of an object}{in}{ the case of text snippets with referents }
+{The NLU system}{working}{ I }
+{the case}{of}{ text snippets with referents }
+{text snippets}{with}{ referents }
+{I am working on I}{trying}{ to recruit you to it }
+{I 'm not trying to}{recruit}{ you }
+{I 'm not trying}{to}{ it }
+{I 'm not trying to recruit you to it but to}{inform}{ you }
+{I 'm not trying to recruit you to it but to inform you ,}{works}{ by proving what it thinks  to inform you }
+{what}{thinks}{ it }
+-
+{It}{invokes}{ sort of a decision tree to prove additional theorems  sort of a decision tree to prove additional theorems }
+{sort}{of}{ a decision tree }
+{It invokes sort of a decision tree to}{prove}{ additional theorems }
+-
+{instance}{for}{ if it recognizes `` Carla '' as a named NE , then it may }
+{it recognizes `` Carla '' as a named NE}{if}{ if it recognizes `` Carla '' as a named NE  may }
+{it}{recognizes}{ `` Carla '' as a named NE }
+{Carla}{as}{ a named NE }
+-
+{on context}{Depending}{ Depending on context  tries  tries }
+{it}{tries}{ to add additional information }
+{it tries to}{add}{ additional information }
+{it tries to add additional information ,}{if}{ the context supports it }
+{the context}{supports}{ it }
+-
+{it was pretty clear that there was a person being referred to by the name , and there was no reason to think otherwise}{if}{ So  if it was pretty clear that there was a person being referred to by the name , and there was no reason to think otherwise  suppose that there existed a female referrent  suppose }
+{there}{was}{ no reason to think otherwise }
+{it}{clear}{ that there was a person being referred to by the name , and there was no reason to think otherwise }
+{it}{suppose}{ that there existed a female referrent }
+-
+{One}{of}{ the things I hate in reading web documents on NLU or computational semantics }
+{they}{say}{ you can rule a particular sense out }
+{the things I}{hate}{ in reading web documents on NLU or computational semantics }
+{you}{rule}{ a particular sense }
+{I hate in reading web documents}{on}{ NLU or computational semantics }
+{NLU One}{semantics}{ semantics  they will say you can rule a particular sense out }
+-
+{I}{remember}{ an example }
+-
+{The box}{is}{ in the pen }
+-
+{you can rule out the sense of writing utility for `` pen '' ,}{based}{ on knowledge of common object sizes }
+{They}{say}{ you can rule out the sense of writing utility for `` pen '' , based on knowledge of common object sizes }
+{knowledge}{of}{ common object sizes }
+{you}{rule}{ the sense of writing utility for `` pen '' }
+{the sense}{of}{ writing utility for `` pen '' }
+{you can rule out the sense of writing utility}{for}{ pen }
+-
+{theory}{in}{ could  in theory  empty on the inside  empty }
+{those areas which}{empty}{ on the inside }
+{free}{in}{ in theory be empty on the inside }
+{Well that 's not strictly correct I}{seen}{ pens which have little clear plastic areas and small things floating free in those areas , some square , which could in theory be empty on the inside }
+{which pens}{have}{ little clear plastic areas and small things floating free in those areas , some square , which could in theory be empty on the inside }
+-
+{it}{seems}{ to arbitrary to say this is ruled out }
+{it seems to}{arbitrary}{ to say this is ruled out }
+{it seems to arbitrary to}{say}{ this is ruled out }
+-
+{I}{think}{ what would be better would be to work from certain inferences }
+{what}{better}{ would be to work from certain inferences }
+{I think what would be better would be to}{work}{ from certain inferences }
+-
+{this document , signed by this cryptosignature ,}{contains}{ the string , such and such }
+{A certain inference}{in}{ this case }
+{A certain inference in this case}{be}{ that this document , signed by this cryptosignature , contains the string , such and such }
+{this document signed}{by}{ this cryptosignature }
+-
+{a better inference}{than}{ the one I }
+{That would be a sometimes false ,}{based}{ on the inconsistency of the computer system }
+{That would be a sometimes false , based on the inconsistency of the computer system}{mentioned}{ a better inference than the one I }
+{the inconsistency}{of}{ the computer system }
+-
+{}{If}{ State space explosion is okay because we can simply use constraint satisfaction and model }
+{something}{needs}{ to be supposed }
+{State space explosion}{okay}{ because we can simply use constraint satisfaction and model }
+{additionally}{suppose}{ suppose '' -LRB- `` not '' -LRB- `` has-sense '' -LRB- `` substr '' -LRB- `` object '' 352235 -RRB- 34 37 -RRB- `` pen #n # 4 '' }
+{we}{use}{ constraint satisfaction and model }
+{State space explosion is okay because we can simply use constraint satisfaction and}{model}{ satisfaction }
+-
+{it does have to}{answer}{ certain questions }
+{it could find unique models}{for}{ all communications }
+{it}{nice}{ to have the system behave such that it could find unique models for all communications , or at least reason with the models it does have to answer certain questions }
+{nice}{have}{ have to answer certain questions }
+{the system behave such that it could find unique models for all communications , or}{at}{ least }
+{reason}{with}{ the models }
+{it}{find}{ unique models }
+{reason it}{have}{ to answer certain questions }
+-
+{I}{have}{ to go }
+{Well I have to go}{see}{ you }
+-
+{I}{guessing}{ that you being an expert in the field can recommend some reading }
+{an expert}{in}{ the field }
+{you being an expert in the field}{recommend}{ some reading }
+-
+{course}{Of}{ Of course  comes  comes }
+{I have no money ,}{so}{ I can not buy it }
+{your book}{comes}{ to mind - but no , I have no money , so I can not buy it }
+{I}{buy}{ it }
+{I}{have}{ no money }
+-
+{I}{find}{ it }
+{I will find it somehow , and}{read}{ it }
+-
+{me}{know}{ if you are interested in collaborating }
+{you}{interested}{ in collaborating }
+-
+{some links}{to}{ some stuff I am working on }
+{some stuff}{working}{ I }
+-
+-

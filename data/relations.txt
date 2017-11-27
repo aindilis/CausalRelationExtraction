@@ -1,233 +1,1582 @@
-{Johan Bos}{Dear}{ Dear Johan Bos  forgive  forgive }
 -
 -
-{I}{wrote}{ the `` free logic form '' system }
-{I}{aware}{ of Boxer or DRS }
-{I wrote the `` free logic form '' system}{on}{ freshmeat }
-{It etc. .}{post-processed}{ a dependency parser -LRB- enju / mogura -RRB- }
-{I was aware of Boxer or DRS etc. . It post-processed a dependency parser -LRB- enju / mogura -RRB- to get}{before}{ well  ,  before I was aware of Boxer or DRS etc. . It post-processed a dependency parser -LRB- enju / mogura -RRB- to get  logic forms }
--
-{collaborators who}{develop}{ cutting edge tools }
-{I The reason}{writing}{ you }
-{The reason I am writing you}{is}{ that I am starved for collaborators who can develop cutting edge tools }
-{I}{starved}{ for collaborators who can develop cutting edge tools }
--
-{I figure , rather than beat around the bush and try to train a few programmers out here}{on}{ computational semantics }
-{you/me . I What}{looking}{ for is an NLU system }
-{I figure , rather than}{beat}{ the bush }
-{I figure , rather than beat around the bush and}{try}{ to train a few programmers out here on computational semantics }
-{I figure , rather than beat around the bush and try to train a few programmers out here on computational semantics I}{offer}{ my services }
-{I should just offer my services}{to}{ you }
-{I figure , rather than beat around the bush and try to}{train}{ a few programmers }
--
-{I}{like}{ what you 're / were doing with Boxer/NutCracker }
-{you what}{/}{ were doing with Boxer/NutCracker }
-{you 're / were doing}{with}{ Boxer/NutCracker }
--
-{I}{know}{ areas you are presently researching  what }
-{areas}{researching}{ you }
--
-{What}{working}{ I }
-{What I am working on}{making}{ Emacs the most powerful semiotic processing system available }
-{making}{system}{ Emacs }
--
-{do not worry , because the hard stuff is all implemented as a separate system}{callable}{ from any environment }
-{}{than}{ it already is }
-{you do not care about Emacs}{If}{ If you do not care about Emacs  worry , because the hard stuff is all implemented as a separate system  worry }
-{you}{care}{ about Emacs }
-{I}{writing}{ the Irish Gaeilge plugin for Gramadoir -LRB- Irish language checker -RRB- for OpenOffice }
-{the Irish Gaeilge plugin}{for}{ for OpenOffice }
-{worry}{because}{ the hard stuff is all implemented as a separate system }
-{Gramadoir -LRB- Irish language checker -RRB-}{for}{ OpenOffice }
-{the hard stuff}{implemented}{ as a separate system }
--
-{I}{including}{ the presentations }
--
-{What I}{interested}{ in working on }
--
-{The context}{of}{ the document }
-{The context of the document}{includes}{ that we can compute  everything }
-{The context of the document includes everything}{that}{ we can compute }
--
-{I work a lot with , not really underspecified semantics , but with breaking a text down}{in}{ character spans }
-{I}{work}{ a lot }
-{I work a lot with , not really underspecified semantics , but with breaking a text down in character spans and}{proving}{ theorems about those spans }
-{theorems}{about}{ those spans }
-{I work a lot}{with}{ breaking a text down in character spans and proving theorems about those spans }
-{with breaking a text down}{in}{ modal or regular logics }
--
-{the author}{meant}{ `` peas instead of peace '' , every kind of analysis }
-{The idea}{is}{ to say }
-{peas}{of}{ peace }
-{this word}{meant}{ this }
-{every kind}{of}{ analysis }
-{the machine}{guess}{ at the meaning in the larger context }
-{the meaning}{in}{ the larger context }
-{this}{looks}{ like a conjoined word }
--
-{Sort}{of}{ like those }
-{or about discrepancies}{in}{ the documents }
-{historians}{arguing}{ about ancient texts that are missing a few characters , or about discrepancies in the documents }
-{ancient texts that}{missing}{ a few characters , or about discrepancies in the documents }
--
-{I}{break}{ the text }
-{the ones}{ruled}{ which }
-{I break down the text and}{try}{ to prove things , such as entity links , by referencing proofs in context }
-{I}{think}{ non-monotonically }
-{I break down the text and try to}{prove}{ things , such as entity links , }
-{I would think non-monotonically , to allow}{for}{ additions }
-{things}{as}{ entity links }
-{I would think non-monotonically ,}{to}{ context , etc. . }
-{I break down the text and try to prove things , such as entity links ,}{by}{ referencing proofs in context }
-{I break down the text and try to prove things , such as entity links , by referencing proofs}{in}{ context }
-{I}{developing}{ a comprehensive ontology of tag-suites }
-{I break down the text and try to prove things , such as entity links , by referencing proofs in context , and always}{present}{ the selection choices and the ones which have been ruled out }
-{a comprehensive ontology}{of}{ tag-suites }
--
-{Oh about me , I I}{have}{ a kind of disability tenure }
-{a kind}{of}{ disability tenure }
-{Oh}{about}{ me }
-{I}{have}{ schizophrenia }
-{my luck keeps up}{if}{ if my luck keeps up  have  have }
 -
 -
-{kind}{of}{ convenient for someone }
-{convenient}{for}{ someone }
-{well and a girl}{interested}{ she }
-{which}{good}{ for the AI }
+[pgdvd042010.iso]C[mounted]R[ on / var/lib/myfrdcsa / codebases/minor-data/corpus-manager ]E
+[s2/myfrdcsa/datasets / pgdvd-201004 / pgdvd-201004 / pgdvd042010.iso is already mounted on / var/lib/myfrdcsa / codebases/minor-data/corpus-manager / corpora/gutenberg]C[as]R[ loop ]E
+[s2/myfrdcsa/datasets / pgdvd-201004 / pgdvd-201004 / pgdvd042010.iso is already mounted on / var/lib/myfrdcsa / codebases/minor-data/corpus-manager / corpora/gutenberg as loop]C[Getting]R[ Result List ]E
+[s2/myfrdcsa/datasets / pgdvd-201004 / pgdvd-201004 / pgdvd042010.iso is already mounted on / var/lib/myfrdcsa / codebases/minor-data/corpus-manager / corpora/gutenberg as loop Getting Result List]C[from]R[ corpora ]E
 -
-{the first person you 're the only person}{released}{ an RTE system that works on the semantics }
-{I the reason}{writing}{ you }
-{an RTE system that}{works}{ on the semantics }
+[I < 10001 . txt > < 10002-8 . txt > < 10003 . txt > I suppose I should have understood much more if I had read the papers regularly]C[begin]R[ to do that until W. had been minister for some time ]E
+[I did n't begin to]C[do]R[ that until W. had been minister for some time ]E
+[W.]C[minister]R[ for some time ]E
+[txt]C[>]R[ I suppose I should have understood much more if I had read the papers regularly ]E
+[I]C[suppose]R[ I should have understood much more if I had read the papers regularly ]E
+[I did n't begin to do that until W. had been minister for some time]C[worked]R[ myself ]E
+[papers said about him worked myself]C[into]R[ a nervous fever ]E
+[I should have understood much more]C[if]R[ I had read the papers regularly ]E
+[papers said about him worked myself into a nervous fever]C[at]R[ all the opposition ]E
+[I]C[read]R[ the papers ]E
+[papers said]C[about]R[ him ]E
 -
-{you siphoning a few non-critical tasks}{to}{ me }
-{what I}{proposing}{ proposing  that we start by you siphoning a few non-critical tasks to me }
-{we what I am proposing is that we start by you siphoning a few non-critical tasks to me}{see}{ how well that goes }
-{we}{start}{ by you siphoning a few non-critical tasks to me }
-{you}{siphoning}{ a few non-critical tasks }
+[We]C[talked]R[ a little ]E
+[he]C[looking]R[ at me  to see if I had taken off my veil and my right-hand glove ]E
+[a man in black appeared at the door , making a low bow and]C[saying]R[ something in Spanish ]E
+[something]C[in]R[ Spanish ]E
+[he looking at me to]C[see]R[ if I had taken off my veil and my right-hand glove ]E
+[I]C[taken]R[ my veil and my right-hand glove ]E
+[a man]C[in]R[ black ]E
+[a man in black We talked a little]C[appeared]R[ making a low bow and saying something in Spanish  at the door ]E
 -
-{What I}{want}{ to is }
-{I want to}{is}{ is  a partner }
-{obtain}{for}{ the development of free and open source textual understanding and reasoning tools }
-{the development}{of}{ free and open source textual understanding and reasoning tools }
+[I]C[wonder]R[ if a presentiment was even then overclouding what seemed a brilliant beginning ]E
+[a presentiment]C[overclouding]R[ what seemed a brilliant beginning ]E
+[what]C[seemed]R[ a brilliant beginning ]E
 -
-{I 'm not mistaken}{If}{ If I 'm not mistaken  assumes  assumes }
-{your system}{assumes}{ a factual or literal context }
+[the great names]C[of]R[ France ]E
+[anybody who had anything to give]C[found]R[ himself ]E
+[anybody who had anything to give found himself]C[in]R[ a difficult position ]E
+[It would have been better]C[were]R[ that anybody who had anything to give found himself in a difficult position  were  many candidates ]E
+[It would have been better]C[think]R[ I ]E
+[so]C[for]R[ every description of function in France ]E
+[I think ,]C[in]R[ a worldly point of view ]E
+[every description]C[of]R[ function in France ]E
+[a worldly point]C[of]R[ view ]E
+[function]C[in]R[ France ]E
+[I think , in a worldly point of view ,]C[if]R[ more embassies had been given to the bearers of some of the great names of France ]E
+[there were so many candidates for every description of function in France just then ,]C[from]R[ an ambassador to a gendarme ]E
+[more embassies]C[given]R[ to the bearers of some of the great names of France ]E
+[an ambassador]C[to]R[ a gendarme ]E
+[the bearers]C[of]R[ of the great names of France ]E
+[there were so many candidates for every description of function in France just then , from an ambassador to a gendarme ,]C[that]R[ anybody who had anything to give found himself in a difficult position ]E
+[some]C[of]R[ of France ]E
+[anybody who]C[had]R[ anything to give ]E
 -
-{things}{like}{ that }
+[his rule over his hammer is weak , if he does not know how to use it well , if its blow is uncertain]C[unskilled]R[ its result ]E
+[< 10004 . txt]C[>]R[ If his rule over his hammer is weak , if he does not know how to use it well , if its blow is uncertain and its result unskilled , then he passes from the line of kings , and is subject , instead of in authority , in his own domain  If his rule over his hammer is weak , if he does not know how to use it well , if its blow is uncertain and its result unskilled , then he passes from the line of kings , and is subject , instead of in authority , in his own domain ]E
+[then he]C[passes]R[ from the line of kings ]E
+[his rule]C[over]R[ his hammer ]E
+[the line]C[of]R[ kings ]E
+[his rule over his hammer is weak ,]C[if]R[ if its blow is uncertain ]E
+[he]C[know]R[ how to use it well , if its blow is uncertain ]E
+[then he passes from the line of kings , and is subject , instead of]C[in]R[ authority ]E
+[then he passes from the line of kings , and is subject , instead of]C[in]R[ his own domain ]E
+[he does not know how to use it well ,]C[if]R[ its blow is uncertain ]E
 -
-{expanded}{in}{ so many ways }
+[his rule over his hammer is weak , if he does not know how to use it well , if its blow is uncertain]C[unskilled]R[ its result ]E
+[< 10004-8 . txt]C[>]R[ If his rule over his hammer is weak , if he does not know how to use it well , if its blow is uncertain and its result unskilled , then he passes from the line of kings , and is subject , instead of in authority , in his own domain  If his rule over his hammer is weak , if he does not know how to use it well , if its blow is uncertain and its result unskilled , then he passes from the line of kings , and is subject , instead of in authority , in his own domain ]E
+[then he]C[passes]R[ from the line of kings ]E
+[his rule]C[over]R[ his hammer ]E
+[the line]C[of]R[ kings ]E
+[his rule over his hammer is weak ,]C[if]R[ if its blow is uncertain ]E
+[he]C[know]R[ how to use it well , if its blow is uncertain ]E
+[then he passes from the line of kings , and is subject , instead of]C[in]R[ authority ]E
+[then he passes from the line of kings , and is subject , instead of]C[in]R[ his own domain ]E
+[he does not know how to use it well ,]C[if]R[ its blow is uncertain ]E
 -
-{The NLU system I am working on , and I 'm not trying to recruit you to it but to inform you , works by proving what it thinks}{referents}{ of an object }
-{The NLU system}{working}{ I }
-{the referents of an object}{in}{ the case of text snippets with referents }
-{text snippets}{with}{ referents }
-{the case}{of}{ text snippets with referents }
-{I am working on I}{trying}{ to recruit you to it }
-{I 'm not trying to}{recruit}{ you }
-{I 'm not trying}{to}{ it }
-{I 'm not trying to recruit you to it but to}{inform}{ you }
-{I 'm not trying to recruit you to it but to inform you ,}{works}{ by proving what it thinks  to inform you }
-{what}{thinks}{ it }
+[we]C[divulged]R[ our arcanum ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ their colonies ]E
+[< 10005 . txt]C[>]R[ We were very secret in these operations ]E
+[we apprehended that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ,]C[as]R[ their government had not then abolished the African slave trade ]E
+[We]C[secret]R[ in these operations ]E
+[they]C[fly]R[ whether found in palace or pagoda  slaves ]E
+[slaves fly away]C[with]R[ all our treasures ]E
+[our unhappy country having then recently fallen under the subjection of the British nation]C[for]R[ for our unhappy country having then recently fallen under the subjection of the British nation  apprehended  apprehended ]E
+[their government]C[abolished]R[ the African slave trade ]E
+[slaves fly away with all our treasures ,]C[whether]R[ found in palace or pagoda ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ palace or pagoda ]E
+[our unhappy country]C[fallen]R[ under the subjection of the British nation ]E
+[the subjection]C[of]R[ the British nation ]E
+[slaves fly away with all our treasures , whether found in palace or pagoda]C[carry]R[ the inhabitants ]E
+[we]C[apprehended]R[ that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ]E
 -
-{It}{invokes}{ sort of a decision tree to prove additional theorems  sort of a decision tree to prove additional theorems }
-{sort}{of}{ a decision tree }
-{It invokes sort of a decision tree to}{prove}{ additional theorems }
+[the waters retiring to]C[fill]R[ the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
+[the separation]C[of]R[ so large a body as the moon , the parts ]E
+[the moon `` Ridiculous ! '' said I]C[one-fourth]R[ the diameter of the earth ]E
+[so large a body]C[as]R[ the moon , the parts ]E
+[the diameter]C[of]R[ the earth ]E
+[the two were united in one sphere]C[if]R[ if the two were united in one sphere  have been submerged  been submerged ]E
+[the chasm made by the separation of so large a body as the moon , the parts]C[before]R[ habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
+[the two]C[united]R[ in one sphere ]E
+[habitable would be , instead]C[of]R[ two , three , or at most four miles ]E
+[habitable would be , instead of two , three , or]C[at]R[ most ]E
+[`` Ridiculous ! '' said I]C[submerged]R[ the highest mountains ]E
+[habitable would be , instead of two , three , or at most four miles ,]C[as]R[ your Himalah mountains are said to be ]E
+[course]C[of]R[ of course  of the land was then bare , on the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be , some twenty or thirty miles above the level of the ocean  of the land was then bare , on the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be , some twenty or thirty miles above the level of the ocean ]E
+[your Himalah mountains]C[said]R[ to be ]E
+[no human inhabitants]C[thirty]R[ twenty ]E
+[there would have been no human inhabitants ; or ,]C[if]R[ any part of the land was then bare , on the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
+[any part]C[of]R[ the land ]E
+[the level]C[of]R[ the ocean ]E
+[any part of the land was then bare ,]C[on]R[ the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
 -
-{instance}{for}{ if it recognizes `` Carla '' as a named NE , then it may }
-{it recognizes `` Carla '' as a named NE}{if}{ if it recognizes `` Carla '' as a named NE  may }
-{it}{recognizes}{ `` Carla '' as a named NE }
-{Carla}{as}{ a named NE }
+[a greater proportion]C[of]R[ solid ]E
+[might still retain nearly their former proportion : or , if the fragment took away a greater proportion of solid than of fluid , then the waters retiring to fill up the cavity The fluid and the solid parts settling down into a new sphere]C[leave]R[ parts bare which they had formerly covered ]E
+[the fragment took away a greater proportion of solid]C[than]R[ of fluid ]E
+[their former proportion : or ,]C[if]R[ the fragment took away a greater proportion of solid than of fluid ]E
+[which The fluid and the solid parts settling down into a new sphere would leave parts bare which they had formerly parts]C[covered]R[ they ]E
+[the solid parts settling down]C[into]R[ a new sphere ]E
+[the fragment]C[took]R[ a greater proportion of solid ]E
+[the waters retiring to]C[fill]R[ the cavity ]E
 -
-{on context}{Depending}{ Depending on context  tries  tries }
-{it}{tries}{ to add additional information }
-{it tries to}{add}{ additional information }
-{it tries to add additional information ,}{if}{ the context supports it }
-{the context}{supports}{ it }
+[it]C[adding]R[ to the injury already done , if we then quitted him ]E
+[my rising to take my leave]C[Upon]R[ Upon my rising to take my leave  assured  assured ]E
+[my]C[rising]R[ to take my leave ]E
+[my rising to]C[take]R[ my leave ]E
+[the injury already done ,]C[if]R[ we then quitted him ]E
+[he]C[assured]R[ that it would be adding to the injury already done , if we then quitted him  me ]E
+[we]C[quitted]R[ him ]E
+[he assured me]C[that]R[ it would be adding to the injury already done , if we then quitted him ]E
 -
-{it was pretty clear that there was a person being referred to by the name , and there was no reason to think otherwise}{if}{ So  if it was pretty clear that there was a person being referred to by the name , and there was no reason to think otherwise  suppose that there existed a female referrent  suppose }
-{there}{was}{ no reason to think otherwise }
-{it}{clear}{ that there was a person being referred to by the name , and there was no reason to think otherwise }
-{it}{suppose}{ that there existed a female referrent }
+[the colour be yellow]C[If]R[ If the colour be yellow  are substances of all shades of this hue , from saffron  substances of all shades of this hue , from saffron ]E
+[all shades]C[from]R[ saffron ]E
+[then there are substances of all shades of this hue , from saffron and pickled salmon]C[to]R[ brimstone and straw ]E
+[of all shades of this hue , from saffron]C[substances]R[ substances of all shades of this hue , from saffron  salmon ]E
+[all shades]C[of]R[ this hue ]E
 -
-{they}{say}{ you can rule a particular sense out }
-{One}{of}{ the things I hate in reading web documents on NLU or computational semantics }
-{I the things}{hate}{ in reading web documents on NLU or computational semantics }
-{you}{rule}{ a particular sense }
-{I hate in reading web documents}{on}{ NLU or computational semantics }
-{One NLU}{semantics}{ semantics  they will say you can rule a particular sense out }
+[Nay , more ; if we were then tamely to tie up our hands ,]C[do]R[ do the same ]E
+[you]C[think]R[ that Bulderent and his men would consent to do the same ]E
+[more ;]C[if]R[ we were then tamely to tie up our hands ]E
+[we]C[tamely]R[ to tie up our hands ]E
+[Bulderent and his men]C[consent]R[ to do the same ]E
+[tamely]C[tie]R[ our hands ]E
+[Bulderent and his men would consent to]C[do]R[ the same ]E
 -
-{I}{remember}{ an example }
+[an accumulation]C[of]R[ the obstructed fluid ]E
+[by any accident any one of them is obstructed]C[know]R[ you ]E
+[]C[although]R[ each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ; for you well know , that that which can be carried off by one ]E
+[each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid]C[that]R[ which can be carried off by one ]E
+[each]C[of]R[ these fluids ]E
+[there is so great an accumulation of the obstructed fluid]C[that]R[ it can not find vent by its natural channel , or duct ]E
+[each of these fluids]C[has]R[ its several channels  that that which can be carried off by one ]E
+[which can be carried off]C[by]R[ one ]E
+[it can not find vent]C[by]R[ its natural channel ]E
+[each of these fluids has its several channels , yet ,]C[if]R[ by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ; for you well know  by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ; for you well know ]E
+[carried]C[by]R[ all ]E
+[any one]C[of]R[ them ]E
+[you]C[carry]R[ the redundancy ]E
+[you must carry off the redundancy]C[by]R[ some other ]E
+[by any accident any one of them]C[is]R[ is  great  that it can not find vent by its natural channel , or duct ]E
+[each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ;]C[for]R[ you well know ]E
 -
-{The box}{is}{ in the pen }
+[I would stray off]C[from]R[ them ]E
+[I would stray off from them as]C[if]R[ I was about to leave them , and then suddenly return ]E
+[I]C[about]R[ to leave them , and then suddenly return ]E
+[about]C[leave]R[ them ]E
 -
-{you can rule out the sense of writing utility for `` pen '' ,}{based}{ on knowledge of common object sizes }
-{They}{say}{ you can rule out the sense of writing utility for `` pen '' , based on knowledge of common object sizes }
-{knowledge}{of}{ common object sizes }
-{you}{rule}{ the sense of writing utility for `` pen '' }
-{the sense}{of}{ writing utility for `` pen '' }
-{you can rule out the sense of writing utility}{for}{ pen }
+[we apprehended that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ,]C[as]R[ their government had not then abolished the African slave trade ]E
+[We]C[secret]R[ in these operations ]E
+[they]C[fly]R[ slaves  whether found in palace or pagoda ]E
+[slaves fly away]C[with]R[ all our treasures ]E
+[We were very secret in these operations ,]C[for]R[ our unhappy country having then recently fallen under the subjection of the British nation ]E
+[their government]C[abolished]R[ the African slave trade ]E
+[slaves fly away with all our treasures ,]C[whether]R[ found in palace or pagoda ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ palace or pagoda ]E
+[our unhappy country]C[fallen]R[ under the subjection of the British nation ]E
+[the subjection]C[of]R[ the British nation ]E
+[slaves fly away with all our treasures , whether found in palace or pagoda]C[carry]R[ the inhabitants ]E
+[we We were very secret in these operations , for our unhappy country having then recently fallen under the subjection of the British nation]C[apprehended]R[ that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ]E
+[we]C[divulged]R[ our arcanum ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ their colonies ]E
 -
-{which those areas}{empty}{ on the inside }
-{theory}{in}{ could  in theory  empty on the inside  empty }
-{free}{in}{ in theory be empty on the inside }
-{Well that 's not strictly correct I}{seen}{ pens which have little clear plastic areas and small things floating free in those areas , some square , which could in theory be empty on the inside }
-{which pens}{have}{ little clear plastic areas and small things floating free in those areas , some square , which could in theory be empty on the inside }
+[it]C[necessary]R[ that our stomachs must receive the food ]E
+[the purity of the etherial air]C[agreeable]R[ to our bodies ]E
+[our stomachs]C[receive]R[ the food ]E
+[Democritus]C[able]R[ to feed himself with the mere smell of hot bread ]E
+[the purity of the etherial air may be so agreeable to our bodies ,]C[as]R[ to yield us sufficient nourishment ]E
+[Democritus was able ,]C[for]R[ divers days ]E
+[able]C[feed]R[ himself ]E
+[it]C[impossible]R[ that the purity of the etherial air , being not mixed with any improper vapours , may be so agreeable to our bodies , as to yield us sufficient nourishment ]E
+[it is not impossible that the purity of the etherial air , being not mixed]C[with]R[ many other arguments of the like nature ]E
+[Democritus was able , for divers days together , to feed himself]C[with]R[ the mere smell of hot bread ]E
+[the purity]C[of]R[ the etherial air ]E
+[many other arguments]C[of]R[ the like nature ]E
+[the mere smell]C[of]R[ hot bread ]E
+[it is not impossible that the purity of the etherial air , being not mixed]C[with]R[ any improper vapours ]E
+[-LSB- 5 -RSB- Or ,]C[if]R[ it be necessary that our stomachs must receive the food , why then it is not impossible that the purity of the etherial air , being not mixed with any improper vapours , may be so agreeable to our bodies , as to yield us sufficient nourishment , '' with many other arguments of the like nature ]E
 -
-{it}{seems}{ to arbitrary to say this is ruled out }
-{it seems to}{arbitrary}{ to say this is ruled out }
-{it seems to arbitrary to}{say}{ this is ruled out }
+[we]C[divulged]R[ our arcanum ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ their colonies ]E
+[< 10005-8 . txt]C[>]R[ We were very secret in these operations ]E
+[we apprehended that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ,]C[as]R[ their government had not then abolished the African slave trade ]E
+[We]C[secret]R[ in these operations ]E
+[they]C[fly]R[ whether found in palace or pagoda  slaves ]E
+[slaves fly away]C[with]R[ all our treasures ]E
+[our unhappy country having then recently fallen under the subjection of the British nation]C[for]R[ for our unhappy country having then recently fallen under the subjection of the British nation  apprehended  apprehended ]E
+[their government]C[abolished]R[ the African slave trade ]E
+[slaves fly away with all our treasures ,]C[whether]R[ found in palace or pagoda ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ palace or pagoda ]E
+[our unhappy country]C[fallen]R[ under the subjection of the British nation ]E
+[the subjection]C[of]R[ the British nation ]E
+[slaves fly away with all our treasures , whether found in palace or pagoda]C[carry]R[ the inhabitants ]E
+[we]C[apprehended]R[ that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ]E
 -
-{I}{think}{ what would be better would be to work from certain inferences }
-{what}{better}{ would be to work from certain inferences }
-{I think what would be better would be to}{work}{ from certain inferences }
+[the waters retiring to]C[fill]R[ the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
+[the separation]C[of]R[ so large a body as the moon , the parts ]E
+[`` Ridiculous ! '' said I the moon]C[one-fourth]R[ the diameter of the earth ]E
+[so large a body]C[as]R[ the moon , the parts ]E
+[the diameter]C[of]R[ the earth ]E
+[the two were united in one sphere]C[if]R[ if the two were united in one sphere  have been submerged  been submerged ]E
+[the chasm made by the separation of so large a body as the moon , the parts]C[before]R[ habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
+[the two]C[united]R[ in one sphere ]E
+[habitable would be , instead]C[of]R[ two , three , or at most four miles ]E
+[habitable would be , instead of two , three , or]C[at]R[ most ]E
+[`` Ridiculous ! '' said I]C[submerged]R[ the highest mountains ]E
+[habitable would be , instead of two , three , or at most four miles ,]C[as]R[ your Himalah mountains are said to be ]E
+[course]C[of]R[ of course  of the land was then bare , on the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be , some twenty or thirty miles above the level of the ocean  of the land was then bare , on the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be , some twenty or thirty miles above the level of the ocean ]E
+[your Himalah mountains]C[said]R[ to be ]E
+[no human inhabitants]C[thirty]R[ twenty ]E
+[there would have been no human inhabitants ; or ,]C[if]R[ any part of the land was then bare , on the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
+[any part]C[of]R[ the land ]E
+[the level]C[of]R[ the ocean ]E
+[any part of the land was then bare ,]C[on]R[ the waters retiring to fill up the chasm made by the separation of so large a body as the moon , the parts before habitable would be , instead of two , three , or at most four miles , as your Himalah mountains are said to be ]E
 -
-{this document , signed by this cryptosignature ,}{contains}{ the string , such and such }
-{A certain inference}{in}{ this case }
-{A certain inference in this case}{be}{ that this document , signed by this cryptosignature , contains the string , such and such }
-{this document signed}{by}{ this cryptosignature }
+[a greater proportion]C[of]R[ solid ]E
+[The fluid and the solid parts settling down into a new sphere might still retain nearly their former proportion : or , if the fragment took away a greater proportion of solid than of fluid , then the waters retiring to fill up the cavity]C[leave]R[ parts bare which they had formerly covered ]E
+[the fragment took away a greater proportion of solid]C[than]R[ of fluid ]E
+[their former proportion : or ,]C[if]R[ the fragment took away a greater proportion of solid than of fluid ]E
+[which parts The fluid and the solid parts settling down into a new sphere would leave parts bare which they had formerly]C[covered]R[ they ]E
+[the solid parts settling down]C[into]R[ a new sphere ]E
+[the fragment]C[took]R[ a greater proportion of solid ]E
+[the waters retiring to]C[fill]R[ the cavity ]E
 -
-{a better inference}{than}{ the one I }
-{That would be a sometimes false ,}{based}{ on the inconsistency of the computer system }
-{That would be a sometimes false , based on the inconsistency of the computer system}{mentioned}{ a better inference than the one I }
-{the inconsistency}{of}{ the computer system }
+[it]C[adding]R[ to the injury already done , if we then quitted him ]E
+[my rising to take my leave]C[Upon]R[ Upon my rising to take my leave  assured  assured ]E
+[my]C[rising]R[ to take my leave ]E
+[my rising to]C[take]R[ my leave ]E
+[the injury already done ,]C[if]R[ we then quitted him ]E
+[he]C[assured]R[ that it would be adding to the injury already done , if we then quitted him  me ]E
+[we]C[quitted]R[ him ]E
+[he assured me]C[that]R[ it would be adding to the injury already done , if we then quitted him ]E
 -
-{}{If}{ State space explosion is okay because we can simply use constraint satisfaction and model }
-{something}{needs}{ to be supposed }
-{State space explosion}{okay}{ because we can simply use constraint satisfaction and model }
-{we}{use}{ constraint satisfaction and model }
-{additionally}{suppose}{ suppose '' -LRB- `` not '' -LRB- `` has-sense '' -LRB- `` substr '' -LRB- `` object '' 352235 -RRB- 34 37 -RRB- `` pen #n # 4 '' }
-{State space explosion is okay because we can simply use constraint satisfaction and}{model}{ satisfaction }
+[the colour be yellow]C[If]R[ If the colour be yellow  are substances of all shades of this hue , from saffron  substances of all shades of this hue , from saffron ]E
+[all shades]C[from]R[ saffron ]E
+[then there are substances of all shades of this hue , from saffron and pickled salmon]C[to]R[ brimstone and straw ]E
+[of all shades of this hue , from saffron]C[substances]R[ substances of all shades of this hue , from saffron  salmon ]E
+[all shades]C[of]R[ this hue ]E
 -
-{it does have to}{answer}{ certain questions }
-{it could find unique models}{for}{ all communications }
-{it}{nice}{ to have the system behave such that it could find unique models for all communications , or at least reason with the models it does have to answer certain questions }
-{the system behave such that it could find unique models for all communications , or}{at}{ least }
-{nice}{have}{ have to answer certain questions }
-{reason}{with}{ the models }
-{it reason}{have}{ to answer certain questions }
-{it}{find}{ unique models }
+[Nay , more ; if we were then tamely to tie up our hands ,]C[do]R[ do the same ]E
+[you]C[think]R[ that Bulderent and his men would consent to do the same ]E
+[more ;]C[if]R[ we were then tamely to tie up our hands ]E
+[we]C[tamely]R[ to tie up our hands ]E
+[Bulderent and his men]C[consent]R[ to do the same ]E
+[tamely]C[tie]R[ our hands ]E
+[Bulderent and his men would consent to]C[do]R[ the same ]E
 -
-{I}{have}{ to go }
-{Well I have to go}{see}{ you }
+[an accumulation]C[of]R[ the obstructed fluid ]E
+[by any accident any one of them is obstructed]C[know]R[ you ]E
+[]C[although]R[ each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ; for you well know , that that which can be carried off by one ]E
+[each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid]C[that]R[ which can be carried off by one ]E
+[each]C[of]R[ these fluids ]E
+[there is so great an accumulation of the obstructed fluid]C[that]R[ it can not find vent by its natural channel , or duct ]E
+[each of these fluids]C[has]R[ that that which can be carried off by one  its several channels ]E
+[which can be carried off]C[by]R[ one ]E
+[it can not find vent]C[by]R[ its natural channel ]E
+[each of these fluids has its several channels , yet ,]C[if]R[ by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ; for you well know  by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ; for you well know ]E
+[carried]C[by]R[ all ]E
+[any one]C[of]R[ them ]E
+[you]C[carry]R[ the redundancy ]E
+[you must carry off the redundancy]C[by]R[ some other ]E
+[by any accident any one of them]C[is]R[ is  great  that it can not find vent by its natural channel , or duct ]E
+[each of these fluids has its several channels , yet , if by any accident any one of them is obstructed , and there is so great an accumulation of the obstructed fluid that it can not find vent by its natural channel , or duct , then you must carry off the redundancy by some other ;]C[for]R[ you well know ]E
 -
-{I}{guessing}{ that you being an expert in the field can recommend some reading }
-{an expert}{in}{ the field }
-{you being an expert in the field}{recommend}{ some reading }
+[I would stray off]C[from]R[ them ]E
+[I would stray off from them as]C[if]R[ I was about to leave them , and then suddenly return ]E
+[I]C[about]R[ to leave them , and then suddenly return ]E
+[about]C[leave]R[ them ]E
 -
-{course}{Of}{ Of course  comes  comes }
-{I have no money ,}{so}{ I can not buy it }
-{your book}{comes}{ to mind - but no , I have no money , so I can not buy it }
-{I}{buy}{ it }
-{I}{have}{ no money }
+[we apprehended that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ,]C[as]R[ their government had not then abolished the African slave trade ]E
+[We]C[secret]R[ in these operations ]E
+[they]C[fly]R[ whether found in palace or pagoda  slaves ]E
+[slaves fly away]C[with]R[ all our treasures ]E
+[We were very secret in these operations ,]C[for]R[ our unhappy country having then recently fallen under the subjection of the British nation ]E
+[their government]C[abolished]R[ the African slave trade ]E
+[slaves fly away with all our treasures ,]C[whether]R[ found in palace or pagoda ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ palace or pagoda ]E
+[our unhappy country]C[fallen]R[ under the subjection of the British nation ]E
+[the subjection]C[of]R[ the British nation ]E
+[slaves fly away with all our treasures , whether found in palace or pagoda]C[carry]R[ the inhabitants ]E
+[we We were very secret in these operations , for our unhappy country having then recently fallen under the subjection of the British nation]C[apprehended]R[ that if we divulged our arcanum , they would not only fly away with all our treasures , whether found in palace or pagoda , but also carry off the inhabitants , to make them slaves in their colonies ]E
+[we]C[divulged]R[ our arcanum ]E
+[slaves fly away with all our treasures , whether found]C[in]R[ their colonies ]E
 -
-{I}{find}{ it }
-{I will find it somehow , and}{read}{ it }
+[it]C[necessary]R[ that our stomachs must receive the food ]E
+[the purity of the etherial air]C[agreeable]R[ to our bodies ]E
+[our stomachs]C[receive]R[ the food ]E
+[Democritus]C[able]R[ to feed himself with the mere smell of hot bread ]E
+[the purity of the etherial air may be so agreeable to our bodies ,]C[as]R[ to yield us sufficient nourishment ]E
+[Democritus was able ,]C[for]R[ divers days ]E
+[able]C[feed]R[ himself ]E
+[it]C[impossible]R[ that the purity of the etherial air , being not mixed with any improper vapours , may be so agreeable to our bodies , as to yield us sufficient nourishment ]E
+[it is not impossible that the purity of the etherial air , being not mixed]C[with]R[ many other arguments of the like nature ]E
+[Democritus was able , for divers days together , to feed himself]C[with]R[ the mere smell of hot bread ]E
+[the purity]C[of]R[ the etherial air ]E
+[many other arguments]C[of]R[ the like nature ]E
+[the mere smell]C[of]R[ hot bread ]E
+[it is not impossible that the purity of the etherial air , being not mixed]C[with]R[ any improper vapours ]E
+[-LSB- 5 -RSB- Or ,]C[if]R[ it be necessary that our stomachs must receive the food , why then it is not impossible that the purity of the etherial air , being not mixed with any improper vapours , may be so agreeable to our bodies , as to yield us sufficient nourishment , '' with many other arguments of the like nature ]E
 -
-{me}{know}{ if you are interested in collaborating }
-{you}{interested}{ in collaborating }
+[all other women]C[endured]R[ the love for him that was then in my heart ]E
+[I have been than all other women ,]C[if]R[ the love for him that was then in my heart had endured ]E
+[the love]C[for]R[ him ]E
+[the love]C[was]R[ that ]E
+[the love for him that was then had endured]C[in]R[ my heart ]E
+[I how much happier]C[been]R[ than all other women , if the love for him that was then in my heart had endured ]E
 -
-{some links}{to}{ some stuff I am working on }
-{some stuff}{working}{ I }
+[good reason]C[had]R[ I ]E
+[the things that are to happen in the future]C[said]R[ to be revealed at all ]E
+[]C[if]R[ I mocked them then ]E
+[the things that are to happen in the future can hardly be said to be]C[revealed]R[ revealed  all ]E
+[me wretched]C[mocked]R[ I ]E
+[good reason had I also to complain]C[of]R[ the gods , who reveal their secrets to mortals in such mystic guise that the things that are to happen in the future can hardly be said to be revealed at all ]E
+[I Ah , wretched me ! if I mocked them then]C[had]R[ good reason to believe in them afterward , to my bitter sorrow and with the shedding of useless tears ]E
+[who the gods]C[reveal]R[ their secrets  that the things that are to happen in the future can hardly be said to be revealed at all ]E
+[good reason had I also]C[to]R[ mortals in such mystic guise ]E
+[mortals]C[in]R[ such mystic guise ]E
+[I had good reason]C[to]R[ my bitter sorrow ]E
+[good reason had I also to complain of the gods , who reveal their secrets to mortals in such mystic guise]C[that]R[ that are to happen in the future can hardly be said to be revealed at all ]E
+[to my bitter sorrow]C[with]R[ the shedding of useless tears ]E
+[that the things]C[are]R[ to happen in the future ]E
+[the things that are to can hardly be said to be revealed at all]C[happen]R[ in the future ]E
+[the shedding]C[of]R[ useless tears ]E
 -
+[which]C[hast]R[ thou ]E
+[thou wittest of all this]C[If]R[ ``  If , then , thou wittest of all this  is  is ]E
+[thou]C[wittest]R[ of all this ]E
+[thou question]C[dost]R[ me ]E
+[]C[that]R[ thou hast to do now ]E
+[thou]C[hast]R[ to do now ]E
+[All]C[is]R[ to keep secret that which thou hast discovered ]E
+[All is to]C[keep]R[ that which thou hast discovered  keep  secret ]E
+[All is to keep secret]C[that]R[ which thou hast discovered ]E
+-
+[that feeling]C[to]R[ which ]E
+[thou art still the victim of that folly by which I know thou hast been enslaved ,]C[if]R[ But  ,  if thou art still the victim of that folly by which I know thou hast been enslaved , if thou art as prone now as erewhile to indulge that feeling to which thou hast already given way  know  know ]E
+[that feeling to which]C[hast]R[ thou ]E
+[thou hast already]C[given]R[ way ]E
+[thou]C[victim]R[ of that folly by which I know thou hast been enslaved , if thou art as prone now as erewhile ]E
+[which]C[by]R[ I know thou hast been enslaved , if thou art as prone now as erewhile ]E
+[that folly I]C[know]R[ thou hast been enslaved ]E
+[I]C[leave]R[ thee ]E
+[I must leave thee]C[to]R[ thy own devices ]E
+[I know thou hast been enslaved ,]C[if]R[ thou art as prone now as erewhile ]E
+[I must leave thee to thy own devices ,]C[for]R[ bootless will be my teachings and my warnings ]E
+[thou art]C[as]R[ erewhile ]E
+-
+[thou art , then , as wise as I hold thee to be]C[If]R[ If thou art , then , as wise as I hold thee to be  bestow such counsel  bestow ]E
+[may lighten my anguish]C[abstain]R[ from exasperating it by censuring that to which my soul , unable to act differently , is inclined with all its energy ]E
+[exasperating]C[by]R[ censuring that to which my soul , unable to act differently , is inclined with all its energy ]E
+[thou art , then ,]C[as]R[ I hold thee to be ]E
+[which]C[to]R[ to act differently , is inclined with all its energy ]E
+[I]C[hold]R[ thee to be  thee to be ]E
+[bestow such counsel]C[help]R[ on me ]E
+[that my soul , unable to act differently ,]C[inclined]R[ with all its energy ]E
+[help]C[as]R[ may lighten my anguish , or , at least , abstain from exasperating it by censuring that to which my soul , unable to act differently , is inclined with all its energy ]E
+[]C[at]R[ least ]E
+-
+[all other women]C[endured]R[ the love for him that was then in my heart ]E
+[I have been than all other women ,]C[if]R[ the love for him that was then in my heart had endured ]E
+[the love]C[for]R[ him ]E
+[the love]C[was]R[ that ]E
+[the love for him that was then had endured]C[in]R[ my heart ]E
+[I how much happier]C[been]R[ than all other women , if the love for him that was then in my heart had endured ]E
+-
+[good reason]C[had]R[ I ]E
+[the things that are to happen in the future]C[said]R[ to be revealed at all ]E
+[]C[if]R[ I mocked them then ]E
+[the things that are to happen in the future can hardly be said to be]C[revealed]R[ revealed  all ]E
+[me wretched]C[mocked]R[ I ]E
+[good reason had I also to complain]C[of]R[ the gods , who reveal their secrets to mortals in such mystic guise that the things that are to happen in the future can hardly be said to be revealed at all ]E
+[Ah , wretched me ! if I mocked them then I]C[had]R[ good reason to believe in them afterward , to my bitter sorrow and with the shedding of useless tears ]E
+[who the gods]C[reveal]R[ that the things that are to happen in the future can hardly be said to be revealed at all  their secrets ]E
+[good reason had I also]C[to]R[ mortals in such mystic guise ]E
+[mortals]C[in]R[ such mystic guise ]E
+[I had good reason]C[to]R[ my bitter sorrow ]E
+[good reason had I also to complain of the gods , who reveal their secrets to mortals in such mystic guise]C[that]R[ that are to happen in the future can hardly be said to be revealed at all ]E
+[to my bitter sorrow]C[with]R[ the shedding of useless tears ]E
+[the things that]C[are]R[ to happen in the future ]E
+[the things that are to can hardly be said to be revealed at all]C[happen]R[ in the future ]E
+[the shedding]C[of]R[ useless tears ]E
+-
+[which]C[hast]R[ thou ]E
+[thou wittest of all this]C[If]R[ ``  If , then , thou wittest of all this  is  is ]E
+[thou]C[wittest]R[ of all this ]E
+[thou question]C[dost]R[ me ]E
+[]C[that]R[ thou hast to do now ]E
+[thou]C[hast]R[ to do now ]E
+[All]C[is]R[ to keep secret that which thou hast discovered ]E
+[All is to]C[keep]R[ keep  secret  that which thou hast discovered ]E
+[All is to keep secret]C[that]R[ which thou hast discovered ]E
+-
+[that feeling]C[to]R[ which ]E
+[thou art still the victim of that folly by which I know thou hast been enslaved ,]C[if]R[ But  ,  if thou art still the victim of that folly by which I know thou hast been enslaved , if thou art as prone now as erewhile to indulge that feeling to which thou hast already given way  know  know ]E
+[that feeling to which]C[hast]R[ thou ]E
+[thou hast already]C[given]R[ way ]E
+[thou]C[victim]R[ of that folly by which I know thou hast been enslaved , if thou art as prone now as erewhile ]E
+[which]C[by]R[ I know thou hast been enslaved , if thou art as prone now as erewhile ]E
+[I that folly]C[know]R[ thou hast been enslaved ]E
+[I]C[leave]R[ thee ]E
+[I must leave thee]C[to]R[ thy own devices ]E
+[I know thou hast been enslaved ,]C[if]R[ thou art as prone now as erewhile ]E
+[I must leave thee to thy own devices ,]C[for]R[ bootless will be my teachings and my warnings ]E
+[thou art]C[as]R[ erewhile ]E
+-
+[thou art , then , as wise as I hold thee to be]C[If]R[ If thou art , then , as wise as I hold thee to be  bestow such counsel  bestow ]E
+[may lighten my anguish]C[abstain]R[ from exasperating it by censuring that to which my soul , unable to act differently , is inclined with all its energy ]E
+[exasperating]C[by]R[ censuring that to which my soul , unable to act differently , is inclined with all its energy ]E
+[thou art , then ,]C[as]R[ I hold thee to be ]E
+[which]C[to]R[ to act differently , is inclined with all its energy ]E
+[I]C[hold]R[ thee to be  thee to be ]E
+[bestow such counsel]C[help]R[ on me ]E
+[my soul , unable to act differently , that]C[inclined]R[ with all its energy ]E
+[help]C[as]R[ may lighten my anguish , or , at least , abstain from exasperating it by censuring that to which my soul , unable to act differently , is inclined with all its energy ]E
+[]C[at]R[ least ]E
+-
+[you]C[permit]R[ me ]E
+[< 10007-8 . txt]C[>]R[ Some time ]E
+[I]C[tell]R[ all that I scarce dare put upon paper now  you ]E
+[< 10007-8 . txt > Some time]C[in]R[ the autumn , two months ]E
+[I will then tell you all]C[that]R[ I scarce dare put upon paper now ]E
+[I]C[put]R[ upon paper ]E
+[< 10007-8 . txt > Some time in the autumn , two months hence , or]C[earlier]R[ if I live , I will see you -- that is , if you permit me ]E
+[I]C[see]R[ you  that is ]E
+[I will see you --]C[that]R[ is ]E
+[I live , I will see you -- that is ,]C[if]R[ you permit me ]E
+-
+[the one]C[comes]R[ that ]E
+[txt > Do n't throw , if you are a true man ,]C[until]R[ we can take a fair start ]E
+[the one that comes out < 10008-8 . txt > < 10009 . txt > Do n't throw , if you are a true man , until we can take a fair start]C[pays]R[ the piper ]E
+[we]C[take]R[ a fair start ]E
+[txt > Do n't throw ,]C[if]R[ you are a true man ]E
+-
+[We]C[saw]R[ one fellow leap ]E
+[We saw one fellow leap ,]C[with]R[ a clear bound ]E
+[they commenced jumping and bounding , and running up and down]C[along]R[ the shore ]E
+[We saw one fellow leap , with a clear bound ,]C[over]R[ over the water , and run some fifty rods up the beach , as if all the hounds in Christendom were at his tail , and then wheel gracefully , and return with equal speed to his companions , when they all commenced jumping and bounding , and running up and down along the shore , as if they were out on a regular spree , and were determined to be jolly ]E
+[they commenced jumping and bounding , and running up and down along the shore , as]C[if]R[ they were out on a regular spree ]E
+[two]C[standing]R[ that ]E
+[they were out]C[on]R[ a regular spree ]E
+[We saw one fellow leap , with a clear bound ,]C[over]R[ the water ]E
+[We saw one fellow leap , with a clear bound , over two that were standing looking out over the water , and run some fifty rods up the beach , as if all the hounds in Christendom were at his tail , and then wheel gracefully , and return with equal speed to his companions , when they all commenced jumping and bounding , and running up and down along the shore , as if they were out on a regular spree , and were]C[determined]R[ to be jolly ]E
+[We saw one fellow leap , with a clear bound , over two that were standing looking out over the water , and]C[run]R[ some fifty rods ]E
+[We saw one fellow leap , with a clear bound , over two that were standing looking out over the water , and run some fifty rods up the beach , as]C[if]R[ all the hounds in Christendom were at his tail , and then wheel gracefully ]E
+[all the hounds]C[in]R[ Christendom ]E
+[his tail]C[at]R[ wheel ]E
+[all the hounds in Christendom]C[then]R[ at his tail ]E
+[We saw one fellow leap , with a clear bound , over two that were standing looking out over the water , and run some fifty rods up the beach , as if all the hounds in Christendom were at his tail , and then wheel gracefully , and]C[return]R[ with equal speed ]E
+[We saw one fellow leap , with a clear bound , over two that were standing looking out over the water , and run some fifty rods up the beach , as if all the hounds in Christendom were at his tail , and then wheel gracefully , and return with equal speed]C[to]R[ his companions ]E
+[We saw one fellow leap , with a clear bound , over two that were standing looking out over the water , and run some fifty rods up the beach , as if all the hounds in Christendom were at his tail , and then wheel gracefully , and return with equal speed to his companions ,]C[when]R[ they all commenced jumping and bounding , and running up and down along the shore , as if they were out on a regular spree ]E
+[they]C[commenced]R[ jumping and bounding , and running up and down along the shore , as if they were out on a regular spree ]E
+-
+[standing]C[with]R[ its back ]E
+[The animal rushed furiously forward two or three rods ,]C[with]R[ with its back humped up ]E
+[its short stump]C[of]R[ a tail ]E
+[its head]C[lowered]R[ as if making a lunge at an enemy , then stopped , and looked all around , standing with its back humped up ]E
+[The animal rushed furiously forward two or three rods , with its head lowered as if making a lunge at an enemy , then stopped , and looked all around , standing with its back humped up]C[working]R[ its short stump of a tail ]E
+[its short stump of a tail working and]C[writhing]R[ at a furious rate ]E
+[its head lowered as if making a lunge]C[at]R[ an enemy ]E
+-
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and]C[left]R[ between granite bosses ]E
+[the landscape]C[with]R[ spiritual animation ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course , whether flowing fast or slow , singing loud or low , ever filling the landscape with spiritual animation , and]C[manifesting]R[ the grandeur of its sources ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on]C[through]R[ the smooth , meadowy levels of the valley ]E
+[the grandeur]C[of]R[ its sources ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting]C[in]R[ every movement and tone ]E
+[the smooth , meadowy levels]C[of]R[ the valley ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley ,]C[swaying]R[ to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course  whether flowing fast or slow ]E
+[the young Tuolumne was seen pouring]C[from]R[ side ]E
+[txt > Down]C[through]R[ the midst ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from]C[side]R[ with calm , stately gestures ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures]C[past]R[ dipping willows and sedges , and around groves of arrowy pine ]E
+[< 10010 . txt > < 10011 . txt > < 10011-8 . txt > < 10012 . txt > Down through the midst the young Tuolumne]C[seen]R[ then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course , whether flowing fast or slow , singing loud or low , ever filling the landscape with spiritual animation , and manifesting the grandeur of its sources in every movement and tone ]E
+[the young Tuolumne was seen pouring]C[from]R[ its crystal fountains ]E
+[dipping willows and sedges]C[groves]R[ of arrowy pine ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting]C[in]R[ glassy pools ]E
+[past dipping willows and sedges , and around groves of arrowy pine]C[throughout]R[ its whole eventful course ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again]C[into]R[ ice ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course ,]C[whether]R[ flowing fast or slow ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting]C[in]R[ white cascades ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if]C[turning]R[ to snow ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course , whether flowing fast or slow , singing loud or low , ever]C[filling]R[ the landscape with spiritual animation ]E
+-
+[individuals]C[toward]R[ the south ]E
+[the restriction and irregular distribution of the species be interpreted as a result of the desiccation of the range , then instead of increasing as it does in individuals toward the south where the rainfall is less]C[if]R[ Again  ,  if the restriction and irregular distribution of the species be interpreted as a result of the desiccation of the range , then instead of increasing as it does in individuals toward the south where the rainfall is less  diminish  diminish ]E
+[the restriction and irregular distribution]C[of]R[ the species ]E
+[the restriction and irregular distribution of the species]C[interpreted]R[ as a result of the desiccation of the range , then instead of increasing as it does in individuals toward the south where the rainfall is less ]E
+[a result]C[of]R[ of the range ]E
+[the desiccation]C[of]R[ the range ]E
+[it]C[does]R[ in individuals toward the south ]E
+-
+[]C[If]R[ , then , the peculiar distribution of Sequoia has not been governed by superior conditions of soil as to fertility or moisture , by what has it been governed ? ]E
+[superior conditions]C[of]R[ soil ]E
+[the peculiar distribution of Sequoia has not been governed by superior conditions of soil]C[as]R[ to fertility or moisture ]E
+[the peculiar distribution]C[of]R[ Sequoia ]E
+[the peculiar distribution of Sequoia]C[governed]R[ by superior conditions of soil ]E
+-
+[all the observed phenomena bearing on the post-glacial history of this colossal tree point to the conclusion that it never was more widely distributed on the Sierra since the close of the glacial epoch ; that its present forests are scarcely past prime , if , indeed , they have reached prime ; that the post-glacial day of the species is probably not half done ; yet , when from a wider outlook the vast antiquity of the genus is considered , and its ancient richness in species and individuals ; comparing our Sierra Giant and _ Sequoia sempervirens]C[although]R[ _ of the Coast Range , the only other living species of Sequoia , with the twelve fossil species already discovered and described by Heer and Lesquereux , some of which seem to have flourished over vast areas in the Arctic regions and in Europe and our own territories , during tertiary and cretaceous times , ]E
+[some]C[of]R[ which ]E
+[all the]C[observed]R[ phenomena bearing on the post-glacial history of this colossal tree point to the conclusion that it never was more widely distributed on the Sierra since the close of the glacial epoch ; that its present forests are scarcely past prime , if , indeed , they have reached prime ; that the post-glacial day of the species is probably not half done ; yet , when from a wider outlook the vast antiquity of the genus is considered , and its ancient richness in species and individuals ; comparing our Sierra Giant and _ Sequoia sempervirens ]E
+[the twelve fossil species some of which]C[seem]R[ to have flourished over vast areas in the Arctic regions ]E
+[phenomena bearing]C[on]R[ the post-glacial history of this colossal tree point to the conclusion ]E
+[seem]C[flourished]R[ over vast areas in the Arctic regions ]E
+[the post-glacial history]C[of]R[ this colossal tree point to the conclusion ]E
+[vast areas]C[in]R[ the Arctic regions ]E
+[this colossal tree point]C[to]R[ the conclusion ]E
+[with the twelve fossil species already discovered and described by Heer and Lesquereux , some of which seem to have flourished over vast areas]C[in]R[ Europe and our own territories ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion]C[that]R[ it never was more widely distributed on the Sierra since the close of the glacial epoch ]E
+[]C[during]R[ tertiary and cretaceous times ]E
+[it]C[distributed]R[ on the Sierra ]E
+[it was more widely distributed on the Sierra]C[since]R[ the close of the glacial epoch ]E
+[the close]C[of]R[ the glacial epoch ]E
+[it]C[becomes]R[ that our two surviving species , restricted to narrow belts within the limits of California , are mere remnants of the genus , both as to species and individuals , and that they probably are verging to extinction  becomes  plain ]E
+[it becomes plain]C[that]R[ our two surviving species , restricted to narrow belts within the limits of California , are mere remnants of the genus , both as to species and individuals ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion]C[that]R[ its present forests are scarcely past prime , if , indeed , they have reached prime ]E
+[our two surviving species restricted to]C[narrow]R[ belts ]E
+[our two surviving species restricted to narrow belts]C[within]R[ the limits of California ]E
+[its present forests are scarcely past prime ,]C[if]R[ , indeed , they have reached prime ]E
+[the limits]C[of]R[ California ]E
+[they]C[reached]R[ prime ]E
+[our two surviving species , restricted to narrow belts within the limits of California ,]C[remnants]R[ of the genus , both as to species and individuals ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion]C[that]R[ the post-glacial day of the species is probably not half done ]E
+[the post-glacial day]C[of]R[ the species ]E
+[of the genus]C[as]R[ to species and individuals ]E
+[it becomes plain]C[that]R[ they probably are verging to extinction ]E
+[from a wider outlook]C[when]R[ the vast antiquity of the genus is considered ]E
+[they that our two surviving species , restricted to narrow belts within the limits of California , are mere remnants of the genus , both as to species and individuals]C[verging]R[ to extinction ]E
+[the vast antiquity]C[of]R[ the genus ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion that it never was more widely distributed on the Sierra since the close of the glacial epoch ; that its present forests are scarcely past prime , if , indeed , they have reached prime ; that the post-glacial day of the species is probably not half done]C[richness]R[ in species and individuals ]E
+[the only other living species]C[of]R[ Sequoia ]E
+[]C[with]R[ the twelve fossil species already discovered and described by Heer and Lesquereux , some of which seem to have flourished over vast areas in the Arctic regions ]E
+[the twelve fossil species already discovered and]C[described]R[ by Heer and Lesquereux ]E
+-
+[the top]C[of]R[ his speed ]E
+[he]C[stores]R[ them ]E
+[he]C[gathers]R[ burs and hazel-nuts ]E
+[he stores them away]C[beneath]R[ logs ]E
+[burs he gathers burs and]C[hazel-nuts]R[ like a plodding farmer , working continuously every day for hours ; saying not a word ; cutting off the ripe cones at the top of his speed , as if employed by the job , and examining every branch in regular order , as if careful that not one should escape him ; then , descending , he stores them away beneath logs and stumps , in anticipation of the pinching hunger days of winter ]E
+[cones at the top of his speed]C[employed]R[ by the job ]E
+[a plodding farmer]C[in]R[ anticipation ]E
+[he gathers burs and hazel-nuts like a plodding farmer , working continuously every day for hours ; saying not a word ; cutting off the ripe cones at the top of his speed , as if employed by the job , and]C[examining]R[ every branch ]E
+[a plodding farmer]C[of]R[ of winter ]E
+[he gathers burs and hazel-nuts like a plodding farmer , working continuously every day for hours ; saying not a word ; cutting off the ripe cones at the top of his speed , as if employed by the job , and examining every branch]C[in]R[ regular order ]E
+[he gathers burs and hazel-nuts like a plodding farmer , working continuously every day]C[for]R[ hours ]E
+[the pinching hunger days]C[of]R[ winter ]E
+[if careful that not one should escape him ; then , descending , he stores them away beneath logs and stumps]C[as]R[ if careful that not one should escape him ; then , descending , he stores them away beneath logs and stumps ]E
+[the ripe]C[cutting]R[ cones at the top of his speed , as if employed by the job ]E
+[not one]C[escape]R[ him ]E
+[cones]C[at]R[ the top of his speed ]E
+-
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone]C[with]R[ his paws to prevent its falling ]E
+[course]C[of]R[ Then  of course  ready for another  ready ]E
+[he]C[ready]R[ for another ]E
+[you are watching]C[if]R[ if you are watching  catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone with his paws to prevent its falling , snip it off in an incredibly short time , seize it with jaws grotesquely stretched , and return to his chosen seat near the trunk  catch a glimpse of him as he glides silently out to the end of a branch ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone with his paws to prevent its falling , snip it off]C[in]R[ an incredibly short time ]E
+[you Then of course he is ready for another]C[catch]R[ a glimpse of him ]E
+[a glimpse]C[of]R[ him ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone]C[with]R[ jaws grotesquely stretched ]E
+[you may catch a glimpse of him]C[as]R[ he glides silently out to the end of a branch ]E
+[he]C[glides]R[ silently ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone with his paws to prevent its falling , snip it off in an incredibly short time , seize it with jaws grotesquely stretched , and]C[return]R[ to his chosen seat near the trunk ]E
+[he glides silently out]C[to]R[ the end of a branch ]E
+[the end]C[of]R[ a branch ]E
+[his chosen seat]C[near]R[ the trunk ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and]C[see]R[ him examining the cone-clusters until he finds one to his mind ; then , leaning over ]E
+[him]C[examining]R[ the cone-clusters ]E
+[him examining the cone-clusters]C[until]R[ he finds one to his mind ; then ]E
+[he]C[finds]R[ one ]E
+[he finds one]C[to]R[ his mind ]E
+[the springy needles]C[of]R[ his way ]E
+-
+[the snow]C[continues]R[ to fall ]E
+[It]C[pitiful]R[ to see wee frost-pinched sparrows on cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and subsiding among the leaves , cold and breakfastless ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious]C[to]R[ their hidings out of the wind ]E
+[pitiful]C[see]R[ wee frost-pinched sparrows ]E
+[It]C[is]R[ no sign of clearing ]E
+[their hidings]C[of]R[ the wind ]E
+[It is pitiful to see wee frost-pinched sparrows]C[on]R[ cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and subsiding among the leaves , cold and breakfastless ]E
+[no sign]C[of]R[ clearing ]E
+[cold mornings]C[in]R[ the mountain groves ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind ,]C[puffing]R[ their breast-feathers ]E
+[cold mornings in the mountain groves]C[shaking]R[ the snow ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers]C[over]R[ their toes ]E
+[cold mornings in the mountain groves shaking the snow]C[from]R[ their feathers ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and]C[subsiding]R[ among the leaves , cold and breakfastless ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and]C[hopping]R[ to be cheery ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as]C[if]R[ anxious ]E
+[It is pitiful to see wee frost-pinched sparrows on cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and subsiding among the leaves , cold and breakfastless ,]C[while]R[ the snow continues to fall ]E
+-
+[]C[though]R[ it may be several hundred feet in height ]E
+[he holds straight on , as if about to dash headlong into the throng of booming rockets , then darts abruptly upward , and ,]C[after]R[ alighting at the top of the precipice to rest a moment ]E
+[it]C[feet]R[ in height ]E
+[the top]C[of]R[ the precipice ]E
+[he holds straight on , as if about to dash headlong into the throng of booming rockets , then darts abruptly upward , and , after alighting at the top of the precipice to]C[rest]R[ a moment ]E
+[on]C[about]R[ to dash headlong into the throng of booming rockets , then darts abruptly upward , and , after alighting at the top of the precipice to rest a moment , proceeds to feed and sing ]E
+[he holds straight on , as if about to dash headlong]C[into]R[ the throng of booming rockets ]E
+[the throng]C[of]R[ booming rockets ]E
+-
+[he gained confidence , and]C[looked]R[ me ]E
+[he gained confidence , and looked me steadily]C[in]R[ the face for about a minute ]E
+[the face]C[for]R[ about a minute ]E
+[he stooped nervously as]C[if]R[ about to fly on the instant ]E
+[about]C[fly]R[ on the instant ]E
+[he gained confidence , and looked me steadily in the face for about a minute , then flew quietly]C[to]R[ the outlet ]E
+[he stooped nervously]C[as]R[ as motionless as the stone ]E
+[he gained confidence , and looked me steadily in the face for about a minute , then flew quietly to the outlet and]C[began]R[ to sing ]E
+[if about to fly on the instant I]C[remained]R[ as motionless ]E
+[I remained]C[as]R[ the stone ]E
+[Then suddenly observing me , he stooped nervously as if about to fly on the instant , but as I remained as motionless as the stone he]C[gained]R[ confidence ]E
+-
+[the rainfall amounts only to three or four inches , instead of from twelve to twenty , as in ordinary seasons]C[If]R[ If the rainfall amounts only to three or four inches , instead of from twelve to twenty , as in ordinary seasons  die  die ]E
+[If the rainfall amounts only to three or four inches , instead of from twelve to twenty , as in ordinary seasons , then sheep and cattle die in thousands]C[do]R[ these small , winged cattle , unless they are carefully fed , or removed to other pastures ]E
+[the rainfall amounts only]C[to]R[ three or four inches ]E
+[these small , winged cattle ,]C[unless]R[ they are carefully fed , or removed to other pastures ]E
+[to three or four inches]C[from]R[ twelve to twenty ]E
+[they are carefully fed , or]C[removed]R[ to other pastures ]E
+[to three or four inches]C[as]R[ in ordinary seasons ]E
+-
+[stately gestures past dipping willows and sedges swaying pensively]C[from]R[ side ]E
+[< 10012-8 . txt > Down]C[through]R[ the midst ]E
+[stately gestures past dipping willows and sedges swaying pensively from side]C[to]R[ side ]E
+[stately gestures past dipping willows and sedges swaying pensively from side to side]C[with]R[ calm ]E
+[stately gestures]C[past]R[ dipping willows and sedges ]E
+[the young Tuolumne]C[seen]R[ then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges ]E
+[the young Tuolumne was seen pouring]C[from]R[ its crystal fountains ]E
+[through the midst]C[around]R[ groves of arrowy pine ]E
+[groves]C[of]R[ arrowy pine ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting]C[in]R[ glassy pools ]E
+[through the midst]C[throughout]R[ its whole eventful course , whether flowing fast or slow , singing loud or low , ever filling the landscape with spiritual animation , and manifesting the grandeur of its sources in every movement and tone ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again]C[into]R[ ice ]E
+[< 10012-8 . txt > Down through the midst , the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course ,]C[whether]R[ flowing fast or slow , singing loud or low , ever filling the landscape with spiritual animation , and manifesting the grandeur of its sources in every movement and tone ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting]C[in]R[ white cascades ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if]C[turning]R[ to snow ]E
+[< 10012-8 . txt > Down through the midst , the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course , whether flowing fast or slow , singing loud or low , ever]C[filling]R[ the landscape with spiritual animation ]E
+[the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and]C[left]R[ between granite bosses ]E
+[the landscape]C[with]R[ spiritual animation ]E
+[< 10012-8 . txt > Down through the midst , the young Tuolumne was seen pouring from its crystal fountains , now resting in glassy pools as if changing back again into ice , now leaping in white cascades as if turning to snow ; gliding right and left between granite bosses , then sweeping on through the smooth , meadowy levels of the valley , swaying pensively from side to side with calm , stately gestures past dipping willows and sedges , and around groves of arrowy pine ; and throughout its whole eventful course , whether flowing fast or slow , singing loud or low , ever filling the landscape with spiritual animation , and]C[manifesting]R[ the grandeur of its sources ]E
+[stately gestures past dipping willows and sedges sweeping on]C[through]R[ the smooth , meadowy levels of the valley ]E
+[the grandeur]C[of]R[ its sources ]E
+[< 10012-8 . txt > Down through the midst , the young Tuolumne was seen pouring from its crystal fountains , now resting]C[in]R[ every movement and tone ]E
+[the smooth , meadowy levels]C[of]R[ the valley ]E
+-
+[individuals]C[toward]R[ the south ]E
+[the restriction and irregular distribution of the species be interpreted as a result of the desiccation of the range , then instead of increasing as it does in individuals toward the south where the rainfall is less]C[if]R[ Again  ,  if the restriction and irregular distribution of the species be interpreted as a result of the desiccation of the range , then instead of increasing as it does in individuals toward the south where the rainfall is less  diminish  diminish ]E
+[the restriction and irregular distribution]C[of]R[ the species ]E
+[the restriction and irregular distribution of the species]C[interpreted]R[ as a result of the desiccation of the range , then instead of increasing as it does in individuals toward the south where the rainfall is less ]E
+[a result]C[of]R[ of the range ]E
+[the desiccation]C[of]R[ the range ]E
+[it]C[does]R[ in individuals toward the south ]E
+-
+[]C[If]R[ , then , the peculiar distribution of Sequoia has not been governed by superior conditions of soil as to fertility or moisture , by what has it been governed ? ]E
+[superior conditions]C[of]R[ soil ]E
+[the peculiar distribution of Sequoia has not been governed by superior conditions of soil]C[as]R[ to fertility or moisture ]E
+[the peculiar distribution]C[of]R[ Sequoia ]E
+[the peculiar distribution of Sequoia]C[governed]R[ by superior conditions of soil ]E
+-
+[all the observed phenomena bearing on the post-glacial history of this colossal tree point to the conclusion that it never was more widely distributed on the Sierra since the close of the glacial epoch ; that its present forests are scarcely past prime , if , indeed , they have reached prime ; that the post-glacial day of the species is probably not half done ; yet , when from a wider outlook the vast antiquity of the genus is considered , and its ancient richness in species and individuals ; comparing our Sierra Giant and _ Sequoia sempervirens]C[although]R[ _ of the Coast Range , the only other living species of Sequoia , with the twelve fossil species already discovered and described by Heer and Lesquereux , some of which seem to have flourished over vast areas in the Arctic regions and in Europe and our own territories , during tertiary and cretaceous times , ]E
+[some]C[of]R[ which ]E
+[all the]C[observed]R[ phenomena bearing on the post-glacial history of this colossal tree point to the conclusion that it never was more widely distributed on the Sierra since the close of the glacial epoch ; that its present forests are scarcely past prime , if , indeed , they have reached prime ; that the post-glacial day of the species is probably not half done ; yet , when from a wider outlook the vast antiquity of the genus is considered , and its ancient richness in species and individuals ; comparing our Sierra Giant and _ Sequoia sempervirens ]E
+[some of which the twelve fossil species]C[seem]R[ to have flourished over vast areas in the Arctic regions ]E
+[phenomena bearing]C[on]R[ the post-glacial history of this colossal tree point to the conclusion ]E
+[seem]C[flourished]R[ over vast areas in the Arctic regions ]E
+[the post-glacial history]C[of]R[ this colossal tree point to the conclusion ]E
+[vast areas]C[in]R[ the Arctic regions ]E
+[this colossal tree point]C[to]R[ the conclusion ]E
+[with the twelve fossil species already discovered and described by Heer and Lesquereux , some of which seem to have flourished over vast areas]C[in]R[ Europe and our own territories ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion]C[that]R[ it never was more widely distributed on the Sierra since the close of the glacial epoch ]E
+[]C[during]R[ tertiary and cretaceous times ]E
+[it]C[distributed]R[ on the Sierra ]E
+[it was more widely distributed on the Sierra]C[since]R[ the close of the glacial epoch ]E
+[the close]C[of]R[ the glacial epoch ]E
+[it]C[becomes]R[ becomes  plain  that our two surviving species , restricted to narrow belts within the limits of California , are mere remnants of the genus , both as to species and individuals , and that they probably are verging to extinction ]E
+[it becomes plain]C[that]R[ our two surviving species , restricted to narrow belts within the limits of California , are mere remnants of the genus , both as to species and individuals ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion]C[that]R[ its present forests are scarcely past prime , if , indeed , they have reached prime ]E
+[our two surviving species restricted to]C[narrow]R[ belts ]E
+[our two surviving species restricted to narrow belts]C[within]R[ the limits of California ]E
+[its present forests are scarcely past prime ,]C[if]R[ , indeed , they have reached prime ]E
+[the limits]C[of]R[ California ]E
+[they]C[reached]R[ prime ]E
+[our two surviving species , restricted to narrow belts within the limits of California ,]C[remnants]R[ of the genus , both as to species and individuals ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion]C[that]R[ the post-glacial day of the species is probably not half done ]E
+[the post-glacial day]C[of]R[ the species ]E
+[of the genus]C[as]R[ to species and individuals ]E
+[it becomes plain]C[that]R[ they probably are verging to extinction ]E
+[from a wider outlook]C[when]R[ the vast antiquity of the genus is considered ]E
+[they that our two surviving species , restricted to narrow belts within the limits of California , are mere remnants of the genus , both as to species and individuals]C[verging]R[ to extinction ]E
+[the vast antiquity]C[of]R[ the genus ]E
+[phenomena bearing on the post-glacial history of this colossal tree point to the conclusion that it never was more widely distributed on the Sierra since the close of the glacial epoch ; that its present forests are scarcely past prime , if , indeed , they have reached prime ; that the post-glacial day of the species is probably not half done]C[richness]R[ in species and individuals ]E
+[the only other living species]C[of]R[ Sequoia ]E
+[]C[with]R[ the twelve fossil species already discovered and described by Heer and Lesquereux , some of which seem to have flourished over vast areas in the Arctic regions ]E
+[the twelve fossil species already discovered and]C[described]R[ by Heer and Lesquereux ]E
+-
+[the top]C[of]R[ his speed ]E
+[he]C[stores]R[ them ]E
+[he]C[gathers]R[ burs and hazel-nuts ]E
+[he stores them away]C[beneath]R[ logs ]E
+[he gathers burs and burs]C[hazel-nuts]R[ like a plodding farmer , working continuously every day for hours ; saying not a word ; cutting off the ripe cones at the top of his speed , as if employed by the job , and examining every branch in regular order , as if careful that not one should escape him ; then , descending , he stores them away beneath logs and stumps , in anticipation of the pinching hunger days of winter ]E
+[cones at the top of his speed]C[employed]R[ by the job ]E
+[a plodding farmer]C[in]R[ anticipation ]E
+[he gathers burs and hazel-nuts like a plodding farmer , working continuously every day for hours ; saying not a word ; cutting off the ripe cones at the top of his speed , as if employed by the job , and]C[examining]R[ every branch ]E
+[a plodding farmer]C[of]R[ of winter ]E
+[he gathers burs and hazel-nuts like a plodding farmer , working continuously every day for hours ; saying not a word ; cutting off the ripe cones at the top of his speed , as if employed by the job , and examining every branch]C[in]R[ regular order ]E
+[he gathers burs and hazel-nuts like a plodding farmer , working continuously every day]C[for]R[ hours ]E
+[the pinching hunger days]C[of]R[ winter ]E
+[if careful that not one should escape him ; then , descending , he stores them away beneath logs and stumps]C[as]R[ if careful that not one should escape him ; then , descending , he stores them away beneath logs and stumps ]E
+[the ripe]C[cutting]R[ cones at the top of his speed , as if employed by the job ]E
+[not one]C[escape]R[ him ]E
+[cones]C[at]R[ the top of his speed ]E
+-
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone]C[with]R[ his paws to prevent its falling ]E
+[course]C[of]R[ Then  of course  ready for another  ready ]E
+[he]C[ready]R[ for another ]E
+[you are watching]C[if]R[ if you are watching  catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone with his paws to prevent its falling , snip it off in an incredibly short time , seize it with jaws grotesquely stretched , and return to his chosen seat near the trunk  catch a glimpse of him as he glides silently out to the end of a branch ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone with his paws to prevent its falling , snip it off]C[in]R[ an incredibly short time ]E
+[you Then of course he is ready for another]C[catch]R[ a glimpse of him ]E
+[a glimpse]C[of]R[ him ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone]C[with]R[ jaws grotesquely stretched ]E
+[you may catch a glimpse of him]C[as]R[ he glides silently out to the end of a branch ]E
+[he]C[glides]R[ silently ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and see him examining the cone-clusters until he finds one to his mind ; then , leaning over , pull back the springy needles out of his way , grasp the cone with his paws to prevent its falling , snip it off in an incredibly short time , seize it with jaws grotesquely stretched , and]C[return]R[ to his chosen seat near the trunk ]E
+[he glides silently out]C[to]R[ the end of a branch ]E
+[the end]C[of]R[ a branch ]E
+[his chosen seat]C[near]R[ the trunk ]E
+[you may catch a glimpse of him as he glides silently out to the end of a branch and]C[see]R[ him examining the cone-clusters until he finds one to his mind ; then , leaning over ]E
+[him]C[examining]R[ the cone-clusters ]E
+[him examining the cone-clusters]C[until]R[ he finds one to his mind ; then ]E
+[he]C[finds]R[ one ]E
+[he finds one]C[to]R[ his mind ]E
+[the springy needles]C[of]R[ his way ]E
+-
+[the snow]C[continues]R[ to fall ]E
+[It]C[pitiful]R[ to see wee frost-pinched sparrows on cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and subsiding among the leaves , cold and breakfastless ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious]C[to]R[ their hidings out of the wind ]E
+[pitiful]C[see]R[ wee frost-pinched sparrows ]E
+[It]C[is]R[ no sign of clearing ]E
+[their hidings]C[of]R[ the wind ]E
+[It is pitiful to see wee frost-pinched sparrows]C[on]R[ cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and subsiding among the leaves , cold and breakfastless ]E
+[no sign]C[of]R[ clearing ]E
+[cold mornings]C[in]R[ the mountain groves ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind ,]C[puffing]R[ their breast-feathers ]E
+[cold mornings in the mountain groves]C[shaking]R[ the snow ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers]C[over]R[ their toes ]E
+[cold mornings in the mountain groves shaking the snow]C[from]R[ their feathers ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and]C[subsiding]R[ among the leaves , cold and breakfastless ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and]C[hopping]R[ to be cheery ]E
+[cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as]C[if]R[ anxious ]E
+[It is pitiful to see wee frost-pinched sparrows on cold mornings in the mountain groves shaking the snow from their feathers , and hopping about as if anxious to be cheery , then hastening back to their hidings out of the wind , puffing out their breast-feathers over their toes , and subsiding among the leaves , cold and breakfastless ,]C[while]R[ the snow continues to fall ]E
+-
+[]C[though]R[ it may be several hundred feet in height ]E
+[he holds straight on , as if about to dash headlong into the throng of booming rockets , then darts abruptly upward , and ,]C[after]R[ alighting at the top of the precipice to rest a moment ]E
+[it]C[feet]R[ in height ]E
+[the top]C[of]R[ the precipice ]E
+[he holds straight on , as if about to dash headlong into the throng of booming rockets , then darts abruptly upward , and , after alighting at the top of the precipice to]C[rest]R[ a moment ]E
+[on]C[about]R[ to dash headlong into the throng of booming rockets , then darts abruptly upward , and , after alighting at the top of the precipice to rest a moment , proceeds to feed and sing ]E
+[he holds straight on , as if about to dash headlong]C[into]R[ the throng of booming rockets ]E
+[the throng]C[of]R[ booming rockets ]E
+-
+[he gained confidence , and]C[looked]R[ me ]E
+[he gained confidence , and looked me steadily]C[in]R[ the face for about a minute ]E
+[the face]C[for]R[ about a minute ]E
+[he stooped nervously as]C[if]R[ about to fly on the instant ]E
+[about]C[fly]R[ on the instant ]E
+[he gained confidence , and looked me steadily in the face for about a minute , then flew quietly]C[to]R[ the outlet ]E
+[he stooped nervously]C[as]R[ as motionless as the stone ]E
+[he gained confidence , and looked me steadily in the face for about a minute , then flew quietly to the outlet and]C[began]R[ to sing ]E
+[if about to fly on the instant I]C[remained]R[ as motionless ]E
+[I remained]C[as]R[ the stone ]E
+[Then suddenly observing me , he stooped nervously as if about to fly on the instant , but as I remained as motionless as the stone he]C[gained]R[ confidence ]E
+-
+[the rainfall amounts only to three or four inches , instead of from twelve to twenty , as in ordinary seasons]C[If]R[ If the rainfall amounts only to three or four inches , instead of from twelve to twenty , as in ordinary seasons  die  die ]E
+[If the rainfall amounts only to three or four inches , instead of from twelve to twenty , as in ordinary seasons , then sheep and cattle die in thousands]C[do]R[ these small , winged cattle , unless they are carefully fed , or removed to other pastures ]E
+[the rainfall amounts only]C[to]R[ three or four inches ]E
+[these small , winged cattle ,]C[unless]R[ they are carefully fed , or removed to other pastures ]E
+[to three or four inches]C[from]R[ twelve to twenty ]E
+[they are carefully fed , or]C[removed]R[ to other pastures ]E
+[to three or four inches]C[as]R[ in ordinary seasons ]E
+-
+[honest men , who adorn the lobby of the House , go home and calmly await the result]C[while]R[ they are waiting for generous patrons like unto you ]E
+[they]C[waiting]R[ for generous patrons ]E
+[< 10013 . txt]C[>]R[ If you are JOHN SMITH and own a coal mine or an iron mill , you go to Washington , see your Congressman , -LRB- by see I mean look at him , of course , -RRB- donate large sums of money to certain poor , but honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you , then go home and calmly await the result  If you are JOHN SMITH and own a coal mine or an iron mill , you go to Washington , see your Congressman , -LRB- by see I mean look at him , of course , -RRB- donate large sums of money to certain poor , but honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you , then go home and calmly await the result ]E
+[they are waiting for generous patrons]C[like]R[ unto you ]E
+[you are JOHN SMITH and]C[own]R[ a coal mine or an iron mill ]E
+[If you are JOHN SMITH and own a coal mine or an iron mill , you honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you ,]C[go]R[ home ]E
+[honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you , go home and calmly]C[await]R[ the result ]E
+[you]C[go]R[ to Washington ]E
+[you go to Washington , see your Congressman , -LRB-]C[by]R[ see I mean look at him , of course , ]E
+[I]C[mean]R[ look ]E
+[I mean look]C[at]R[ him , of course , ]E
+[him]C[of]R[ course ]E
+[you go to Washington , see your Congressman , -LRB- by see I mean look at him ,]C[of]R[ money to certain poor ]E
+[money]C[to]R[ certain poor ]E
+[who honest men]C[adorn]R[ the lobby of the House ]E
+[the lobby]C[of]R[ the House ]E
+-
+[ships]C[mechanisms]R[ of anterior and past ages ]E
+[of seas merely]C[of]R[ of the mind ]E
+[those chaotic gaps]C[of]R[ the mind ]E
+[in counting ships , and the assumptive floatative mechanisms of anterior and past ages ;]C[as]R[ the Assyrians -LSB- ]E
+[if not a Vessel , then surely we , or our progenitors , in counting ships , and the assumptive floatative mechanisms of anterior and past ages ; or as the Assyrians -LSB- under-estimating the force of the correlative elements -RSB- declared a bridging , or a going over -LSB- not of seas merely , but of those chaotic gaps of the mind -RSB- are all wrong enough indeed ,]C[for]R[ if not a Vessel , then surely we , or our progenitors , in counting ships , and the assumptive floatative mechanisms of anterior and past ages ; or as the Assyrians -LSB- under-estimating the force of the correlative elements -RSB- declared a bridging , or a going over -LSB- not of seas merely , but of those chaotic gaps of the mind -RSB- are all wrong enough indeed , ]E
+[not a Vessel , then surely we , or our progenitors , in counting ships , and the assumptive floatative mechanisms of anterior and past ages ; or as the Assyrians -LSB-]C[under-estimating]R[ the force of the correlative elements ]E
+[the force]C[of]R[ the correlative elements ]E
+[surely]C[in]R[ counting ships , and the assumptive floatative mechanisms of anterior and past ages ; ]E
+[a bridging]C[going]R[ over -LSB- ]E
+[declared]C[of]R[ seas ]E
+-
+[honest men , who adorn the lobby of the House , go home and calmly await the result]C[while]R[ they are waiting for generous patrons like unto you ]E
+[they]C[waiting]R[ for generous patrons ]E
+[< 10013-8 . txt]C[>]R[ If you are JOHN SMITH and own a coal mine or an iron mill , you go to Washington , see your Congressman , -LRB- by see I mean look at him , of course , -RRB- donate large sums of money to certain poor , but honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you , then go home and calmly await the result  If you are JOHN SMITH and own a coal mine or an iron mill , you go to Washington , see your Congressman , -LRB- by see I mean look at him , of course , -RRB- donate large sums of money to certain poor , but honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you , then go home and calmly await the result ]E
+[they are waiting for generous patrons]C[like]R[ unto you ]E
+[you are JOHN SMITH and]C[own]R[ a coal mine or an iron mill ]E
+[If you are JOHN SMITH and own a coal mine or an iron mill , you honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you ,]C[go]R[ home ]E
+[honest men , who adorn the lobby of the House , while they are waiting for generous patrons like unto you , go home and calmly]C[await]R[ the result ]E
+[you]C[go]R[ to Washington ]E
+[you go to Washington , see your Congressman , -LRB-]C[by]R[ see I mean look at him , of course , ]E
+[I]C[mean]R[ look ]E
+[I mean look]C[at]R[ him , of course , ]E
+[him]C[of]R[ course ]E
+[you go to Washington , see your Congressman , -LRB- by see I mean look at him ,]C[of]R[ money to certain poor ]E
+[money]C[to]R[ certain poor ]E
+[who honest men]C[adorn]R[ the lobby of the House ]E
+[the lobby]C[of]R[ the House ]E
+-
+[ships]C[mechanisms]R[ of anterior and past ages ]E
+[of seas merely]C[of]R[ of the mind ]E
+[those chaotic gaps]C[of]R[ the mind ]E
+[in counting ships , and the assumptive floatative mechanisms of anterior and past ages ;]C[as]R[ the Assyrians -LSB- ]E
+[if not a Vessel , then surely we , or our progenitors , in counting ships , and the assumptive floatative mechanisms of anterior and past ages ; or as the Assyrians -LSB- under-estimating the force of the correlative elements -RSB- declared a bridging , or a going over -LSB- not of seas merely , but of those chaotic gaps of the mind -RSB- are all wrong enough indeed ,]C[for]R[ if not a Vessel , then surely we , or our progenitors , in counting ships , and the assumptive floatative mechanisms of anterior and past ages ; or as the Assyrians -LSB- under-estimating the force of the correlative elements -RSB- declared a bridging , or a going over -LSB- not of seas merely , but of those chaotic gaps of the mind -RSB- are all wrong enough indeed , ]E
+[not a Vessel , then surely we , or our progenitors , in counting ships , and the assumptive floatative mechanisms of anterior and past ages ; or as the Assyrians -LSB-]C[under-estimating]R[ the force of the correlative elements ]E
+[the force]C[of]R[ the correlative elements ]E
+[surely]C[in]R[ counting ships , and the assumptive floatative mechanisms of anterior and past ages ; ]E
+[a bridging]C[going]R[ over -LSB- ]E
+[declared]C[of]R[ seas ]E
+-
+[he may become a rake , and]C[fork]R[ his money ]E
+[txt]C[>]R[ If he be a young par , he may become a rake , and fork over his money  If he be a young par , he may become a rake , and fork over his money ]E
+[< 10013-h/10013-h . htm > < 10013-h/images / > < 10013-h/images/01 . jpg > < 10013-h/images/02a . jpg > < 10013-h/images/02b . jpg > < 10013-h/images/03a . jpg > < 10013-h/images/03b . jpg > < 10013-h/images/03c . jpg > < 10013-h/images/05 . jpg > < 10013-h/images/06 . jpg > < 10013-h/images/07 . jpg > < 10013-h/images/08 . jpg > < 10013-h/images/09 . jpg > < 10013-h/images/11 . jpg > < 10013-h/images/12 . jpg > < 10013-h/images/13 . jpg > < 10013-h/images/14 . jpg > < 10013-h/images/16 . jpg > < 10013-h/images/Thumbs . db > < 10014 . txt > If he be a young par , he may become a rake , and fork over his money]C[ho]R[ then ]E
+[he]C[become]R[ a rake ]E
+-
+[he may become a rake , and]C[fork]R[ his money ]E
+[< 10014-8 . txt]C[>]R[ If he be a young par , he may become a rake , and fork over his money , and then ho  If he be a young par , he may become a rake , and fork over his money , and then ho ]E
+[he]C[become]R[ a rake ]E
+-
+[txt]C[>]R[ I feel sometimes as if I should drop down on the floor ]E
+[< 10014-h/10014-h . htm > < 10014-h/images/01 . jpg > < 10014-h/images/04 . jpg > < 10014-h/images/05 . jpg > < 10014-h/images/06a . jpg > < 10014-h/images/06b . jpg > < 10014-h/images/07a . jpg > < 10014-h/images/07b . jpg > < 10014-h/images/08 . jpg > < 10014-h/images/09 . jpg > < 10014-h/images/12 . jpg > < 10014-h/images/13 . jpg > < 10014-h/images/14 . jpg > < 10014-h/images/16 . jpg > < 10014-h/images/Thumbs . db > < 10015 . txt > I feel sometimes as if I should drop down on the floor]C[stop]R[ folks ]E
+[I feel sometimes as]C[if]R[ I should drop down on the floor ]E
+[I did ,]C[at]R[ what they would be pleased to term my extreme ladylikeness ]E
+[I should drop down]C[on]R[ the floor ]E
+[what they]C[pleased]R[ my extreme ladylikeness  to term ]E
+-
+[a hod of bricks]C[fall]R[ through it ]E
+[txt]C[>]R[ If , while passing under the ladder , a hod of bricks should fall through it and strike you on the head , then an `` accident or affliction '' shall have befallen you  If , while passing under the ladder , a hod of bricks should fall through it and strike you on the head , then an `` accident or affliction '' shall have befallen you ]E
+[then an `` accident or affliction '']C[befallen]R[ you ]E
+[a hod of bricks should fall through it and]C[strike]R[ you ]E
+[passing under the ladder]C[while]R[ while passing under the ladder , a hod of bricks should fall through it and strike you on the head  have befallen you  befallen you  befallen  befallen  while passing under the ladder  fall through it and strike you on the head  fall through it ]E
+[a hod of bricks should fall through it and strike you]C[on]R[ the head ]E
+[txt > If , while passing]C[under]R[ the ladder ]E
+[a hod]C[of]R[ bricks ]E
+-
+[a hod]C[of]R[ bricks ]E
+[a hod of bricks < 10016-8 .]C[fall]R[ through it ]E
+[< 10016-8 . txt > If , while passing under the ladder , a hod of bricks should fall through it and strike you on the head , then an `` accident or affliction '']C[befallen]R[ you ]E
+[]C[If]R[ while passing under the ladder , a hod of bricks should fall through it and strike you on the head , then an `` accident or affliction '' ]E
+[a hod of bricks should fall through it and]C[strike]R[ you ]E
+[passing under the ladder]C[while]R[ while passing under the ladder  fall through it and strike you on the head , then an `` accident or affliction ''  fall through it ]E
+[a hod of bricks should fall through it and strike you]C[on]R[ the head , then an `` accident or affliction '' ]E
+[passing]C[under]R[ the ladder ]E
+-
+[Post-Office Orders , Bank Checks]C[Drafts]R[ on New-York City ]E
+[< 10016-h/10016-h . htm >]C[<]R[ < 10016-h/images/01 . jpg > < 10016-h/images/05 . jpg > < 10016-h/images/06a . jpg > < 10016-h/images/06b . jpg > < 10016-h/images/06c . jpg > < 10016-h/images/06d . jpg > < 10016-h/images/07 . jpg > < 10016-h/images/08 . jpg > < 10016-h/images/09 . jpg > < 10016-h/images/12 . jpg > < 10016-h/images/13 . jpg > < 10016-h/images/14 . jpg > < 10016-h/images/16 . jpg > < 10017 . txt > < 10017-8 . txt > < 10017-h/10017-h . htm > < 10017-h/images / > < 10017-h/images/01 . jpg > < 10017-h/images/01a . jpg > < 10017-h/images/05 . jpg > < 10017-h/images/06a . jpg > < 10017-h/images/06b . jpg > < 10017-h/images/06c . jpg > < 10017-h/images/07 . jpg > < 10017-h/images/08 . jpg > < 10017-h/images/09 . jpg > < 10017-h/images/12 . jpg > < 10017-h/images/13 . jpg > < 10017-h/images/14 . jpg > < 10017-h/images/16 . jpg > < 10018 . txt ]E
+[< 10016-h/10016-h . htm > < 10016-h/images / > < 10016-h/images/01 . jpg > < 10016-h/images/05 . jpg > < 10016-h/images/06a . jpg > < 10016-h/images/06b . jpg > < 10016-h/images/06c . jpg > < 10016-h/images/06d . jpg > < 10016-h/images/07 . jpg > < 10016-h/images/08 . jpg > < 10016-h/images/09 . jpg > < 10016-h/images/12 . jpg > < 10016-h/images/13 . jpg > < 10016-h/images/14 . jpg > < 10016-h/images/16 . jpg > < 10017 . txt > < 10017-8 . txt > < 10017-h/10017-h . htm > < 10017-h/images / > < 10017-h/images/01 . jpg > < 10017-h/images/01a . jpg > < 10017-h/images/05 . jpg > < 10017-h/images/06a . jpg > < 10017-h/images/06b . jpg > < 10017-h/images/06c . jpg > < 10017-h/images/07 . jpg > < 10017-h/images/08 . jpg > < 10017-h/images/09 . jpg > < 10017-h/images/12 . jpg > < 10017-h/images/13 . jpg > < 10017-h/images/14 . jpg > < 10017-h/images/16 . jpg > < 10018 . txt > Remittances should be made in Post-Office Orders , Bank Checks , or Drafts on New-York City ; or]C[if]R[ these can not be obtained ]E
+[Registered Letters which]C[furnish]R[ any post-master ]E
+[> Remittances]C[made]R[ in Post-Office Orders , Bank Checks , or Drafts on New-York City ; ]E
+[> Remittances should be made in Post-Office Orders , Bank Checks , or Drafts on New-York City ;]C[obtained]R[ these ]E
+[< 10016-h/10016-h . htm > < 10016-h/images / > < 10016-h/images/01 . jpg > < 10016-h/images/05 . jpg > < 10016-h/images/06a . jpg > < 10016-h/images/06b . jpg > < 10016-h/images/06c . jpg > < 10016-h/images/06d . jpg > < 10016-h/images/07 . jpg > < 10016-h/images/08 . jpg > < 10016-h/images/09 . jpg > < 10016-h/images/12 . jpg > < 10016-h/images/13 . jpg > < 10016-h/images/14 . jpg > < 10016-h/images/16 . jpg > < 10017 . txt > < 10017-8 . txt > < 10017-h/10017-h . htm > < 10017-h/images / > < 10017-h/images/01 . jpg > < 10017-h/images/01a . jpg > < 10017-h/images/05 . jpg > < 10017-h/images/06a . jpg > < 10017-h/images/06b . jpg > < 10017-h/images/06c . jpg > < 10017-h/images/07 . jpg > < 10017-h/images/08 . jpg > < 10017-h/images/09 . jpg > < 10017-h/images/12 . jpg > < 10017-h/images/13 . jpg > < 10017-h/images/14 . jpg > < 10017-h/images/16 . jpg > < 10018 . txt > Remittances should be made in Post-Office Orders , Bank Checks , or Drafts on New-York City ; or if these can not be obtained , then]C[by]R[ Registered Letters , which any post-master will furnish ]E
+-
+[< 10018-8 . txt > Remittances should be made in Post-Office Orders , Bank Checks , or Drafts on New-York City ; or if these can not be obtained , then]C[by]R[ Registered Letters , which any post-master will furnish ]E
+[Post-Office Orders]C[Drafts]R[ on New-York City ]E
+[< 10018-8 . txt > Remittances should be made in Post-Office Orders , Bank Checks , or Drafts on New-York City ; or]C[if]R[ these can not be obtained ]E
+[Registered Letters which]C[furnish]R[ any post-master ]E
+[< 10018-8 . txt > Remittances]C[made]R[ in Post-Office Orders , Bank Checks , or Drafts on New-York City ; or if these can not be obtained ]E
+[in Post-Office Orders , Bank Checks , or Drafts on New-York City ;]C[obtained]R[ these ]E
+-
+[one]C[of]R[ many taxpayers ]E
+[it]C[possible]R[ that he may content himself with measuring the size of the blocks with his eye ]E
+[he]C[content]R[ himself ]E
+[he]C[getting]R[ the value of what they are called on to pay for ]E
+[he may content himself]C[with]R[ with his eye ]E
+[the value]C[of]R[ what they are called on to pay for ]E
+[the size]C[of]R[ the blocks ]E
+[they what]C[called]R[ to pay for ]E
+[he may content himself]C[with]R[ his eye ]E
+[txt]C[>]R[ If the spectator is a man of business , it is just possible that he may content himself with measuring the size of the blocks with his eye  If the spectator is a man of business , it is just possible that he may content himself with measuring the size of the blocks with his eye ]E
+[< 10018-h . htm > < 10018-h/10018-h . htm > < 10018-h/images / > < 10018-h/images/01 . jpg > < 10018-h/images/03 . jpg > < 10018-h/images/04 . jpg > < 10018-h/images/05 . jpg > < 10018-h/images/06 . jpg > < 10018-h/images/08 . jpg > < 10018-h/images/09 . jpg > < 10018-h/images/11 . jpg > < 10018-h/images/12 . jpg > < 10018-h/images/13 . jpg > < 10018-h/images/14 . jpg > < 10018-h/images/16 . jpg > < 10018-h/images/Thumbs . db > < 10019 . txt > If the spectator is a man of business , it is just possible that he may content himself with measuring the size of the blocks with his eye then]C[pass]R[ pass  content ]E
+[content]C[know]R[ that he , as one out of many taxpayers , is getting the value of what they are called on to pay for ]E
+[the spectator]C[man]R[ of business ]E
+[one out of many taxpayers]C[as]R[ he  ,  as one out of many taxpayers  getting the value of what they are called on to pay for  getting ]E
+-
+[< 10019-8 . txt]C[>]R[ If the spectator is a man of business , it is just possible that he may content himself with measuring the size of the blocks with his eye , and then pass on  If the spectator is a man of business , it is just possible that he may content himself with measuring the size of the blocks with his eye , and then pass on  >  content ]E
+[content]C[know]R[ that he , as one out of many taxpayers , is getting the value of what they are called on to pay for ]E
+[the spectator]C[man]R[ of business ]E
+[one out of many taxpayers]C[as]R[ he  ,  as one out of many taxpayers  getting the value of what they are called on to pay for  getting ]E
+[one]C[of]R[ many taxpayers ]E
+[it]C[possible]R[ that he may content himself with measuring the size of the blocks with his eye , and then pass on ]E
+[he]C[content]R[ himself ]E
+[he]C[getting]R[ the value of what they are called on to pay for ]E
+[he may content himself]C[with]R[ with his eye ]E
+[the value]C[of]R[ what they are called on to pay for ]E
+[the size]C[of]R[ the blocks ]E
+[they what]C[called]R[ to pay for ]E
+[he may content himself]C[with]R[ his eye ]E
+-
+[I was at the foot of his tomb Somewhat he eyed me , and , as]C[if]R[ disdainful ]E
+[I]C[was]R[ he eyed me , and , as if disdainful , Then asked of me  at the foot of his tomb Somewhat ]E
+[< 10019-h/images /]C[>]R[ Who were thine ancestors ? ]E
+[he eyed me]C[asked]R[ of me ]E
+[the foot]C[of]R[ his tomb Somewhat ]E
+[he]C[eyed]R[ me ]E
+-
+[you]C[tell]R[ that fallen one , That ]E
+[compunctious for my fault , Said : `` Now , then , you will tell that fallen one , That]C[if]R[ Then  I  ,  if compunctious for my fault , Said : `` Now , then , you will tell that fallen one , That  is  is ]E
+[compunctious]C[for]R[ my fault ]E
+[compunctious for my fault]C[Said]R[ Now , then , you will tell that fallen one , That ]E
+[I his son]C[is]R[ with the living joined ]E
+-
+[I then became disquieted]C[if]R[ And  if I then became disquieted  Let  Let ]E
+[What the point]C[is]R[ beyond which I had passed  beyond which I had passed ]E
+[I]C[became]R[ became  disquieted ]E
+[stolid people]C[think]R[ who do not see What the point is beyond which I had passed ]E
+[who]C[see]R[ What the point is beyond which I had passed ]E
+-
+[that]C[for]R[ they hope to come ]E
+[charge , when I depart , Thou shalt be left : for that Almighty King , Who reigns above , a rebel to his law ,]C[Adjudges]R[ me ]E
+[txt]C[>]R[ I ]E
+[they fire]C[hope]R[ to come ]E
+[txt > I]C[for]R[ for that they hope to come , Whene'er the time may be ]E
+[That]C[to]R[ his city none through me ]E
+[Whene'er]C[be]R[ the time ]E
+[ring]C[devise]R[ That thou mayst follow me ]E
+[txt > I for thy profit pond ` ring now devise , That thou mayst follow me , and I thy guide Will lead thee hence through an eternal space , Where thou shalt hear despairing shrieks , and see Spirits of old tormented , who invoke A second death ; and those next view , who dwell Content in fire , for that they hope to come , Whene'er the time may be ,]C[among]R[ the blest , Into whose regions if thou then desire T ' ascend , a spirit worthier then I Must lead thee ]E
+[his city none]C[through]R[ me ]E
+[That thou mayst]C[follow]R[ me ]E
+[thou then desire T ' ascend]C[if]R[ if thou then desire T ' ascend  worthier  worthier ]E
+[ring now devise , That thou mayst follow me I]C[guide]R[ Will lead thee hence through an eternal space , Where thou shalt hear despairing shrieks , and see Spirits of old tormented ]E
+[thou]C[desire]R[ T ' ascend ]E
+[Will]C[lead]R[ thee ]E
+[Will lead thee hence]C[through]R[ an eternal space , Where thou shalt hear despairing shrieks , ]E
+[a spirit the blest Into whose regions]C[worthier]R[ I Must lead thee ]E
+[I]C[lead]R[ thee ]E
+[thou an eternal space]C[hear]R[ despairing shrieks ]E
+[txt > I for thy profit pond ` ring now devise , That thou mayst follow me , and I thy guide Will lead thee hence through an eternal space , Where thou shalt hear despairing shrieks , and see Spirits of old tormented , who invoke A second death ; and those next view , who dwell Content]C[in]R[ whose charge , when I depart , Thou shalt be left : for that Almighty King , Who reigns above , a rebel to his law , Adjudges me , and therefore hath decreed ]E
+[Will lead thee hence through an eternal space , Where thou shalt hear despairing shrieks , and]C[see]R[ Spirits of old tormented ]E
+[Spirits]C[of]R[ old tormented ]E
+[I charge]C[depart]R[ a rebel to his law ]E
+[who thy profit pond]C[invoke]R[ A second death ]E
+[Thou shalt be left :]C[for]R[ that Almighty King , Who reigns above ]E
+[that Almighty King]C[reigns]R[ Who ]E
+[who those next view]C[dwell]R[ Content in fire , for that they hope to come ]E
+[Content]C[in]R[ fire , for that they hope to come ]E
+[a rebel]C[to]R[ his law ]E
+-
+[if]C[on]R[ this voyage then I ]E
+[I Myself]C[deem]R[ deem  worthy ]E
+[this voyage]C[then]R[ I ]E
+[Myself I deem not worthy , and none else Will deem me . I , if on this voyage then I venture ,]C[fear]R[ it will in folly end ]E
+[it]C[will]R[ in folly end ]E
+[Will none]C[deem]R[ me ]E
+-
+[onward passing proudly sweeps Its whirlwind rage ,]C[while]R[ beasts and shepherds fly ]E
+[some forest]C[driving]R[ all its might ]E
+[the perturbed waves Loud-crashing , terrible , a sound that made Either shore tremble , as if of a wind Impetuous , from conflicting vapours sprung , That ` gainst some forest driving all its might , o'er]C[Plucks]R[ the branches ]E
+[that a sound]C[made]R[ Either shore tremble ]E
+[the perturbed waves Loud-crashing , terrible , a sound that made Either shore tremble , as if of a wind Impetuous , from conflicting vapours sprung , That ` gainst some forest driving all its might , Plucks off the branches ,]C[beats]R[ them ]E
+[the perturbed waves Loud-crashing , terrible , a sound that made Either shore tremble , as if of a wind Impetuous , from conflicting vapours sprung , That ` gainst some forest driving all its might , Plucks off the branches , beats them down and]C[hurls]R[ Afar ]E
+[the perturbed waves Loud-crashing , terrible , a sound that made Either shore tremble , as if Plucks off the branches , beats them down and hurls Afar]C[of]R[ a wind Impetuous ]E
+[onward passing]C[sweeps]R[ Its whirlwind rage ]E
+[there came o'er the perturbed waves Loud-crashing , terrible , a sound that made Either shore tremble , as if of a wind Impetuous ,]C[from]R[ conflicting vapours sprung , That ` gainst some forest driving all its might ]E
+-
+[the world hath oft Been]C[into]R[ chaos turn 'd ]E
+[well I mark]C[If]R[ Who carried off from Dis the mighty spoil Of the highest circle , then through all its bounds Such trembling seiz 'd the deep concave and foul , I thought the universe was thrill 'd with love , Whereby ]E
+[the mighty spoil Of the highest circle , then through all its bounds Such trembling seiz Dis]C['d]R[ the deep concave and foul ]E
+[into chaos turn 'd]C[in]R[ that point ]E
+[past doubt -LRB- If well I mark -RRB-]C[ere]R[ Who carried off from Dis the mighty spoil Of the highest circle , then through all its bounds Such trembling seiz 'd the deep concave and foul , I thought the universe was thrill 'd with love , Whereby  He arrived  there are who deem  the world hath oft Been into chaos turn 'd : and in that point , Here ]E
+[I]C[thought]R[ the universe was thrill 'd with love , Whereby ]E
+[the universe]C['d]R[ with love ]E
+[carried]C[from]R[ Dis the mighty spoil Of the highest circle , then through all its bounds Such trembling seiz 'd the deep concave and foul ]E
+[past doubt -LRB- If well I mark -RRB- not long ere He arrived]C[toppled]R[ that old rock ]E
+[spoil]C[Of]R[ the highest circle , then ]E
+[spoil]C[through]R[ all its bounds ]E
+[the world]C[hath]R[ oft Been ]E
+-
+[from the fire I had been shelter 'd , down amidst them straight]C[If]R[ If from the fire I had been shelter 'd , down amidst them straight  cast me  cast  from the fire I had been shelter 'd , down amidst them straight ]E
+[the dire burning vanquish]C[Of]R[ that fear  Of the dire burning vanquish  'd  'd ]E
+[If from the fire I had been shelter that fear]C['d]R[ 'd embrace ]E
+[shelter]C[amidst]R[ them straight ]E
+[I had been shelter 'd , down amidst them]C[straight]R[ them ]E
+[Which the desire]C[made]R[ me eager of their wish 'd embrace ]E
+[I]C[cast]R[ me ]E
+[that fear 'd the desire , Which made me me]C[eager]R[ of their wish 'd embrace ]E
+[my guide If from the fire I had been shelter 'd , down amidst them straight I then had cast me]C[have]R[ restrain 'd my going ]E
+-
+[They]C[pursue]R[ us ]E
+[anger then Be to their evil will conjoin 'd]C[If]R[ If anger then Be to their evil will conjoin 'd  twixt  twixt ]E
+[They shall pursue us ,]C[than]R[ the savage hound Snatches the leveret ]E
+[anger then Be]C[to]R[ their evil ]E
+[the savage hound]C[Snatches]R[ the leveret ]E
+[anger then Be to their evil]C[conjoin]R[ 'd ]E
+[panting]C[twixt]R[ his jaws ]E
+[more]C[fell]R[ They shall pursue us , than the savage hound Snatches the leveret ]E
+-
+[Wish 'd to excuse myself]C[speak]R[ Wish 'd to excuse myself ]E
+[I]C[perceiv]R[ 'd ]E
+[Such was I , who wanting power to speak Wish 'd to]C[excuse]R[ myself ]E
+[him]C[towards]R[ towards him  turn  turn ]E
+[I perceiv 'd How angrily he spake , and towards him turn 'd With shame so poignant , as remember 'd yet Confounds me . As a man that dreams of harm Befall 'n him , dreaming wishes it a dream that which is]C[Excus]R[ Excus  me ]E
+[How angrily he spake]C[turn]R[ so poignant , as remember 'd yet Confounds me ]E
+[so poignant , as remember 'd yet Confounds me turn 'd]C[With]R[ shame ]E
+[I perceiv 'd How angrily he spake , and towards him turn 'd With shame so poignant ,]C[as]R[ remember 'd yet Confounds me ]E
+[remember]C[Confounds]R[ me ]E
+[I perceiv 'd How angrily he spake , and towards him turn 'd With shame so poignant , as remember 'd yet Confounds me .]C[As]R[ a man that dreams of harm Befall 'n him , dreaming wishes it a dream ]E
+[a man]C[that]R[ dreams of harm Befall 'n him , dreaming wishes it a dream ]E
+[dreams]C[of]R[ harm Befall 'n him , dreaming ]E
+[dreams of harm Befall 'n him , dreaming]C[wishes]R[ it a dream ]E
+[dreams of harm Befall 'n him , dreaming wishes it a]C[dream]R[ it ]E
+[that]C[is]R[ which ]E
+[that which is]C[desires]R[ as if it were not , Such then was I , who wanting power to speak Wish 'd to excuse myself ]E
+[I who]C[wanting]R[ power ]E
+-
+[Such then Antaeus]C[seem]R[ 'd , as at mine ease I mark 'd him stooping ]E
+[appears The tower of Carisenda , from beneath Where it doth lean , if chance a passing cloud So sail across , that opposite it hangs]C[As]R[ As appears The tower of Carisenda , from beneath Where it doth lean , if chance a passing cloud So sail across , that opposite it hangs  seem  seem ]E
+[as]C[at]R[ mine ]E
+[The tower]C[of]R[ Carisenda ]E
+[appears]C[from]R[ beneath Where it doth lean , if chance a passing cloud So sail across , that opposite it hangs ]E
+[I Such then Antaeus seem 'd , as at mine ease I]C[mark]R[ mark  him stooping ]E
+[Such then Antaeus seem 'd , as at mine ease I mark 'd him]C[stooping]R[ him ]E
+[it]C[doth]R[ doth  lean ]E
+[it doth lean ,]C[if]R[ chance a passing cloud So sail across , that opposite it hangs ]E
+[chance]C[cloud]R[ that opposite it hangs ]E
+[that opposite]C[hangs]R[ it ]E
+-
+['d , Bethink pass]C[them]R[ if sore toil oppress 'd me then ]E
+[the grosser sort]C[see]R[ Who ]E
+[sore toil oppress]C['d]R[ me ]E
+[the point what Let]C[I]R[ I  pass 'd , Bethink them if sore toil oppress 'd me then ]E
+-
+[Dame]C[sayst]R[ thou ]E
+[Dame from heaven , as thou sayst ,]C[Moves]R[ thee ]E
+[1006 .]C[txt]R[ > ]E
+[1006 . txt > Not so ,]C[if]R[ Dame from heaven , as thou sayst , Moves and directs thee ]E
+[Dame]C[from]R[ heaven ]E
+[1006 . txt > Not so , if Dame from heaven ,]C[as]R[ thou sayst ]E
+-
+[not]C[of]R[ the other heirs ]E
+[that stripling who behinds him sits]C[if]R[ And  if that stripling who behinds him sits  been pour 'd ; Which may not of the other heirs be said  pour 'd ; Which may not of the other heirs be said ]E
+[him had liv 'd , his virtue then]C[From]R[ vessel ]E
+[who that stripling]C[behinds]R[ him ]E
+[pour 'd]C[said]R[ Which ]E
+[King]C[after]R[ him had liv 'd , his virtue then From vessel to like vessel ]E
+[him]C[had]R[ liv 'd , his virtue ]E
+-
+[]C[as]R[ one Made hasty by her grief ; `` O sire ]E
+[one]C[Made]R[ Made  hasty ]E
+[one Made hasty]C[by]R[ her grief ; `` O sire ]E
+[What]C[to]R[ thee ]E
+[What to thee]C[other]R[ 's good , If thou neglect thy own ]E
+[]C[if]R[ thou Dost not return ]E
+[What to thee is other 's good ,]C[If]R[ thou neglect thy own ]E
+[I]C[am]R[ May right thee . '' -- `` What to thee is other 's good , If thou neglect thy own ? '' ]E
+[she Now comfort thee]C[length]R[ he answers ]E
+-
+[this were so]C[If]R[ Free choice in you were none ]E
+[Your movements have their primal bent]C[from]R[ heaven ]E
+[Free choice in you were none justice]C[joy]R[ for virtue ]E
+[Free choice]C[in]R[ you ]E
+[Free choice in you were none woe for ill . Your movements have their primal bent from heaven ; Not all ;]C[said]R[ I all ]E
+[woe]C[for]R[ ill . Your movements have their primal bent from heaven ]E
+[woe for ill . Your movements have their primal bent from heaven ; Not said I]C[all]R[ I ]E
+[Your movements ill .]C[have]R[ their primal bent ]E
+-
+[then the present race of mankind err]C[If]R[ If then the present race of mankind err  Seek in yourselves the cause  Seek ]E
+[Seek in yourselves the cause]C[find]R[ it ]E
+[then the present race]C[of]R[ mankind ]E
+-
+[the mole]C[Doth]R[ through opacous membrane ]E
+[reader ,]C[if]R[ thou e'er Hast , on a mountain top , been ta'en by cloud , Through which thou saw ` st no better , than the mole Doth through opacous membrane ; then ]E
+[Call to remembrance reader , if thou e'er Hast , on a mountain top , been ta'en by cloud , Through which thou saw ` st no better , than the mole Doth through opacous membrane ; then ,]C[whene'er]R[ The wat ` ry vapours dense began to melt Into thin air , how faintly the sun 's sphere Seem 'd wading through them ; so thy nimble thought May image , how at first I re-beheld The sun , that bedward now his couch o'erhung ]E
+[thou]C[e'er]R[ Hast , on a mountain top , been ta'en by cloud ]E
+[first]C[at]R[ at first  re-beheld  re-beheld ]E
+[Hast]C[on]R[ a mountain top ]E
+[I]C[re-beheld]R[ The sun , that bedward now his couch o'erhung ]E
+[ry vapours]C[began]R[ to melt Into thin air ]E
+[Hast been ta'en]C[by]R[ cloud ]E
+[that The sun]C[bedward]R[ his couch o'erhung ]E
+[thou e'er Hast , on a mountain top , been ta'en by cloud]C[Through]R[ which thou saw ` st no better , than the mole Doth through opacous membrane ; then ]E
+[which thou]C[saw]R[ st ]E
+[thou saw ` st no better ,]C[than]R[ the mole Doth through opacous membrane ]E
+[the sun 's sphere Seem]C[wading]R[ through them ]E
+-
+[in that new round]C[to]R[ my guide ]E
+[aught should meet mine ear in that new round , Then to my guide]C[If]R[ waiting a short space  ,  If aught should meet mine ear in that new round , Then to my guide  turn 'd  turn ]E
+[I]C[turn]R[ 'd ]E
+[aught]C[meet]R[ mine ear ]E
+[aught should meet mine ear]C[in]R[ that new round ]E
+-
+[mov 'd she on , against the current ,]C[up]R[ The verdant rivage ]E
+[if enamour 'd , she resum 'd And clos 'd the song , with `` Blessed they whose sins Are cover 'd . '']C[as]R[ Like the wood-nymphs then , that tripp 'd Singly across the sylvan shadows  if enamour 'd , she resum 'd And clos 'd the song , with `` Blessed they whose sins Are cover 'd . '' ]E
+[that tripp]C[Singly]R[ across the sylvan shadows ]E
+[she]C[resum]R[ 'd ]E
+[one]C[Eager]R[ to ` scape the sun  to view and one ]E
+[clos if enamour]C['d]R[ the song ]E
+[clos 'd the song ,]C[with]R[ `` Blessed they whose sins Are cover 'd . '' ]E
+[one Eager to view and one to `]C[scape]R[ the sun ]E
+[mov]C['d]R[ she ]E
+[the wood-nymphs]C[Like]R[ Like the wood-nymphs  Singly across the sylvan shadows  Singly ]E
+[mov 'd she on ,]C[against]R[ the current ]E
+-
+[I were only what]C[If]R[ < 1007 . txt >  If I were only what  didst  didst ]E
+[thou < 1007 . txt >]C[didst]R[ didst  , Then newly , Love ]E
+-
+[I then Was of corporeal frame , and it transcend Our weaker thought]C[If]R[ If I then Was of corporeal frame , and it transcend Our weaker thought  join  join ]E
+[I]C[Was]R[ of corporeal frame ]E
+[how much more Must the desire]C[inflame]R[ us to behold That essence , which discovers by what means God and our nature  us to behold That essence , which discovers by what means God and our nature ]E
+[the desire inflame us to]C[behold]R[ That essence , which discovers by what means God and our nature ]E
+[it I then Was of corporeal frame]C[transcend]R[ Our weaker thought ]E
+[That essence which]C[discovers]R[ by what means God and our nature ]E
+[what]C[means]R[ God and our nature ]E
+[the desire inflame us to behold That essence , which discovers by what means God and our God]C[nature]R[ If I then Was of corporeal frame , and it transcend Our weaker thought  ,  how one dimension thus Another could endure  ,  which needs must be If body enter body  ,  nature  'd ]E
+[needs which]C[be]R[ If body enter body ]E
+[body]C[enter]R[ body ]E
+-
+[the which]C['d]R[ of different aspects ]E
+[The eighth sphere]C[displays]R[ Numberless lights , the which in kind and size May be remark 'd of different aspects ]E
+[One single virtue]C[be]R[ in all , Alike distributed , or more , or less ]E
+[rare or dense of that were cause alone]C[If]R[ If rare or dense of that were cause alone  be in all , Alike distributed , or more , or less  be ]E
+[rare]C[dense]R[ of that ]E
+[kind and size]C[in]R[ in kind and size  be remark 'd of different aspects  remark 'd of different aspects ]E
+[rare or dense of that]C[were]R[ cause alone ]E
+-
+[we should wish to be exalted]C[more]R[ which in these orbs Thou wilt confess not possible , if here To be in charity ]E
+[our will]C[Is]R[ in composure settled by the power Of charity , who makes us will alone What we possess , and nought beyond desire ]E
+[Thou wilt confess not possible , if here To be]C[in]R[ charity ]E
+[composure settled]C[by]R[ the power Of charity , who makes us will alone What we possess ]E
+[our wishes jar]C[with]R[ the high will Of him ]E
+[the power]C[Of]R[ charity , who makes us will alone What we possess ]E
+[]C[if]R[ her nature well thou contemplate ]E
+[the high will]C[Of]R[ him ]E
+[who charity]C[makes]R[ us will alone What we possess ]E
+[befall her nature]C[contemplate]R[ thou ]E
+[our wishes jar who]C[sets]R[ us ]E
+[What]C[possess]R[ we ]E
+[these orbs]C[in]R[ in these orbs  in charity  confess ]E
+[composure settled by the power Of charity , who makes us will alone What we possess , and]C[nought]R[ beyond desire ]E
+[]C[If]R[ we should wish to be exalted more , Then must our wishes jar with the high will Of him , who sets us here , which in these orbs Thou wilt confess not possible , if here To be in charity ]E
+[Thou which]C[confess]R[ not possible ]E
+[we]C[wish]R[ to be exalted more , Then must our wishes jar with the high will Of him , who sets us here , which in these orbs Thou wilt confess not possible , if here To be in charity ]E
+[Thou wilt confess not possible ,]C[if]R[ if here To be in charity  if her nature well thou contemplate  needs  needs  here ]E
+-
+[the orb Grew brighter]C[at]R[ her ]E
+[I]C[beheld]R[ that the orb Grew brighter at her smiles  The dame ]E
+[gladness]C[cheer]R[ what ]E
+[]C[if]R[ the star Were mov 'd to gladness , what then was my cheer , Whom nature hath made apt for every change ]E
+[I beheld The dame ,]C[so]R[ joyous enter ]E
+[nature hath Whom my cheer]C[made]R[ made  apt ]E
+[nature hath made apt]C[for]R[ every change ]E
+[I beheld The dame , so joyous enter ,]C[that]R[ the orb Grew brighter at her smiles ]E
+[the star There I beheld The dame , so joyous enter , that the orb Grew brighter at her smiles]C['d]R[ to gladness , what then was my cheer , Whom nature hath made apt for every change ]E
+-
+[that on the stool wouldst sit To judge at distance of a thousand miles]C[With]R[ the short-sighted vision of a span ]E
+[he believeth not]C[if]R[ And who art thou , that on the stool wouldst sit To judge at distance of a thousand miles With the short-sighted vision of a span ]E
+[that]C[on]R[ the stool wouldst ]E
+[the short-sighted vision]C[of]R[ a span ]E
+[that on the stool wouldst]C[sit]R[ To judge at distance of a thousand miles With the short-sighted vision of a span ]E
+[that on the stool wouldst sit To]C[judge]R[ at distance of a thousand miles ]E
+[distance]C[of]R[ a thousand miles ]E
+-
+[it what]C[hath]R[ err 'd to  err 'd to ]E
+[thou note the point , whence each proceeds , Then look what it hath err 'd to]C[if]R[ And  if thou note the point , whence each proceeds , Then look what it hath err 'd to  find The white grown murky  find ]E
+[thou]C[note]R[ the point , whence each proceeds , Then look what it hath err 'd to ]E
+[thou]C[find]R[ The white grown murky ]E
+[the point , whence each proceeds ,]C[look]R[ what it hath err 'd to ]E
+-
+[things]C[substance]R[ hop 'd ]E
+[Was answer 'd]C[set]R[ if thou well discern , why first He hath defin 'd it , substance , and then proof ]E
+[]C[if]R[ thou well discern , why first He hath defin ]E
+[Was answer 'd E'en as set down]C[by]R[ the unerring style Of thy dear brother , who with thee conspir 'd To bring Rome in unto the way of life , Faith of things hop 'd is substance , and the proof Of things not seen ; and herein doth consist Methinks its essence , '' -- `` Rightly hast thou deem 'd , '' ]E
+[hop 'd is substance]C[proof]R[ Of things not seen ]E
+[thy dear brother , who with thee conspir 'd To bring Rome in unto the way of life]C[Of]R[ Of thy dear brother , who with thee conspir 'd To bring Rome in unto the way of life  Methinks  Methinks ]E
+[He]C[hath]R[ defin ]E
+[if thou well discern , why first He hath defin]C['d]R[ it , substance , and then proof ]E
+[thee conspir]C[with]R[ with thee conspir  'd ]E
+[herein doth Faith the unerring style hop 'd is substance , and the proof Of things not seen]C[consist]R[ Of thy dear brother , who with thee conspir 'd To bring Rome in unto the way of life  ,  consist  its essence ]E
+[thy dear brother who]C['d]R[ To bring Rome in unto the way of life ]E
+['d]C[bring]R[ Rome in unto  the way of life ]E
+[Rome]C[in]R[ unto ]E
+[Rightly]C[hast]R[ thou deem 'd ]E
+[the way]C[of]R[ life ]E
+[thou]C[deem]R[ 'd ]E
+[Faith]C[of]R[ things hop 'd is substance , and the proof Of things not seen ; and herein doth consist ]E
+-
+[e'er the sacred poem that hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year , Faded my brow , be destin 'd to prevail Over the cruelty , which bars me forth Of the fair sheep-fold , where a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God : and , for its sake]C[If]R[ e'er the sacred poem that hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year , Faded my brow , be destin 'd to prevail Over the cruelty , which bars me forth Of the fair sheep-fold , where a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God : and , for its sake  e'er the sacred poem that hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year , Faded my brow , be destin 'd to prevail Over the cruelty , which bars me forth Of the fair sheep-fold , where a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God : and , for its sake ]E
+[other voice and fleece of other grain]C[With]R[ me  ,  With other voice and fleece of other grain  forthwith return  forthwith ]E
+[voice]C[fleece]R[ of other grain ]E
+[hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year]C[that]R[ that hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year , Faded my brow , be destin  to prevail Over the cruelty , which bars me forth Of the fair sheep-fold , where a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God : and , for its sake  that hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year , Faded my brow , be destin 'd to prevail Over the cruelty , which bars me forth Of the fair sheep-fold , where a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God : and , for its sake  circled my forehead thus  circled  circled ]E
+[hath]C[made]R[ Both heav 'n and earth copartners in its toil ]E
+[hath made Both heav]C['n]R[ Both ]E
+[I me]C[forthwith]R[ return ]E
+[heav 'n]C[copartners]R[ in its toil ]E
+[my baptismal font]C[At]R[ ,  At my baptismal font  claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God  claim ]E
+[And]C[with]R[ lean abstinence ]E
+[hath made Both heav 'n and earth copartners in its toil , And with lean abstinence ,]C[through]R[ many a year ]E
+[a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due]C[to]R[ the poet 's temples ]E
+[a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples :]C[for]R[ I there First enter 'd on the faith which maketh souls Acceptable to God ]E
+[e'er the sacred poem that hath made Both heav 'n and earth copartners in its toil , And with lean abstinence , through many a year , Faded my brow , be destin]C['d]R[ 'd on the faith which maketh souls Acceptable to God : and , for its sake ]E
+['d]C[prevail]R[ Over the cruelty , which bars me forth Of the fair sheep-fold , where a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God : and , for its sake ]E
+[I]C[enter]R[ 'd ]E
+[I there First enter 'd]C[on]R[ the faith which maketh souls Acceptable to God ]E
+[the cruelty]C[bars]R[ which ]E
+[which the faith]C[maketh]R[ souls Acceptable to God ]E
+[the cruelty , which bars me forth]C[Of]R[ the fair sheep-fold ]E
+[souls Acceptable]C[to]R[ God ]E
+[a sleeping lamb The wolves set on and fain had worried me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples :]C[for]R[ its sake ]E
+[a sleeping lamb]C[set]R[ The wolves ]E
+[Peter]C[circled]R[ my forehead ]E
+[a sleeping lamb The wolves set on and fain]C[worried]R[ me , With other voice and fleece of other grain I shall forthwith return , and , standing up At my baptismal font , shall claim the wreath Due to the poet 's temples : for I there First enter 'd on the faith which maketh souls Acceptable to God ]E
+-
+[the grim brood , from Arctic shores that roam 'd , -LRB- Where helice , forever , as she wheels , Sparkles a mother 's fondness on her son -RRB-]C[Stood]R[ mid the works of Rome  in mute wonder ]E
+[who I]C[had]R[ past ]E
+[the grim brood , from Arctic shores that roam 'd , -LRB- Where helice , forever , as she wheels , Sparkles a mother 's fondness on her son -RRB- Stood in mute wonder ` mid the works of Rome , When to their view the Lateran arose In greatness more than earthly ; I , who then From human to divine had past , from time Unto eternity , and out of Florence To justice and to truth]C[If]R[ might I choose But marvel too ]E
+[the Lateran arose In greatness more than earthly ; I , who then From human to divine had past ,]C[from]R[ time ]E
+[the grim brood]C[from]R[ Arctic shores that roam 'd ]E
+[mid the works]C[of]R[ Rome ]E
+[Arctic shores that]C[roam]R[ 'd ]E
+[In greatness more than earthly ; I , who then From human to divine had past , from time Unto eternity]C[of]R[ Florence To justice and to truth ]E
+[the grim brood , from Arctic shores that roam 'd , -LRB- Where helice , forever , as she wheels , Sparkles a mother 's fondness on her son -RRB- Stood in mute wonder ` mid the works of Rome ,]C[When]R[ the Lateran arose In greatness more than earthly ; I , who then From human to divine had past , from time Unto eternity , and out of Florence To justice and to truth  to their view ]E
+[Florence]C[To]R[ justice ]E
+[To justice]C[to]R[ truth ]E
+[the Lateran]C[arose]R[ In greatness more than earthly ; I , who then From human to divine had past , from time Unto eternity , and out of Florence To justice and to truth ]E
+[helice , forever , Sparkles a mother 's fondness on her son]C[as]R[ she ]E
+[helice , forever , as she wheels ,]C[Sparkles]R[ a mother 's fondness on her son ]E
+[a mother 's fondness]C[on]R[ her son ]E
+[human to divine]C[From]R[ From human to divine  had  had ]E
+[human]C[to]R[ divine ]E
+-
+[one]C[wonders]R[ how many floors it would crash through if it were to give way ]E
+[how many floors]C[crash]R[ it ]E
+[it would crash through]C[if]R[ it were to give way ]E
+[a wonderful chandelier]C[from]R[ the ceiling centre , made of copper and ormolu , burning seventy-two lights , and of such enormous size that one wonders how many floors it would crash through if it were to give way ]E
+[it]C[were]R[ to give way ]E
+[it were to]C[give]R[ way ]E
+[of copper and ormolu]C[made]R[ burning seventy-two lights ]E
+[I]C[learn]R[ that it is supported by concealed cross-beams hidden away under the ceiling ]E
+[the ceiling centre made of copper and ormolu ,]C[burning]R[ seventy-two lights ]E
+[it]C[supported]R[ by concealed cross-beams hidden away under the ceiling ]E
+[the ceiling centre , made]C[of]R[ such enormous size ]E
+[concealed cross-beams hidden away]C[under]R[ the ceiling ]E
+[There is a wonderful chandelier from the ceiling centre , made of copper and ormolu , burning seventy-two lights , and of such enormous size]C[that]R[ one wonders how many floors it would crash through if it were to give way ]E
+-
+[I]C[heard]R[ heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen  a story ]E
+[she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet ,]C[because]R[ if you do n't I will turn you into a Queen  if you do n't I will turn you into a Queen ]E
+[on one occasion , in playing with her dolls , she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen]C[that]R[ on one occasion , in playing with her dolls , she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen ]E
+[one occasion]C[in]R[ playing with her dolls ]E
+[I]C[turn]R[ you ]E
+[I heard a story that on one occasion , in playing]C[with]R[ her dolls ]E
+[I will turn you]C[into]R[ a Queen ]E
+[she]C[heard]R[ to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen ]E
+[she was thus heard to]C[speak]R[ to a supposed refractory one ]E
+[I heard a story that on one occasion , in playing with her dolls , she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen you]C[have]R[ anyone ]E
+[you will not have anyone to play]C[with]R[ at all ]E
+-
+[you do not consent to do what I ask of you]C[If]R[ ``  If you do not consent to do what I ask of you  help you off with your helmet , but I will call in all your neighbours  help ]E
+[I]C[call]R[ in all your neighbours ]E
+[you]C[consent]R[ to do what I ask of you ]E
+[you do not consent to]C[do]R[ what I ask of you ]E
+[I]C[help]R[ you ]E
+[I what]C[ask]R[ of you ]E
+[I not help you off with your helmet , but I will call in all your neighbours , and then]C[go]R[ the Municipal Council ]E
+[I not help you off]C[with]R[ your helmet ]E
+-
+[the grasshopper -- like the cricket --]C[has]R[ a chirp consisting of three notes in rhythm , always forming a triplet in the key of B . She knew that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[there is any truth in the story]C[If]R[ If there is any truth in the story  had  had ]E
+[her]C[own]R[ she hardly cared about just then ]E
+[a chirp consisting]C[of]R[ three notes in rhythm ]E
+[she]C[cared]R[ about just ]E
+[any truth]C[in]R[ the story ]E
+[three notes]C[in]R[ rhythm ]E
+[the grasshopper]C[had]R[ powers far in advance of his degenerated descendants ]E
+[a chirp consisting of three notes]C[in]R[ the key of B . She knew that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[far]C[in]R[ advance ]E
+[the key]C[of]R[ B . She knew that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[powers]C[of]R[ his degenerated descendants ]E
+[She B .]C[knew]R[ that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[now]C[for]R[ for now  has  has ]E
+[she]C[moved]R[ her baby 's life was gone ]E
+[the grasshopper]C[like]R[ the cricket ]E
+-
+[There is a wonderful chandelier from the ceiling centre , made of copper and ormolu , burning seventy-two lights , and of such enormous size]C[that]R[ one wonders how many floors it would crash through if it were to give way ]E
+[one]C[wonders]R[ how many floors it would crash through if it were to give way ]E
+[txt]C[>]R[ There is a wonderful chandelier from the ceiling centre , made of copper and ormolu , burning seventy-two lights , and of such enormous size that one wonders how many floors it would crash through if it were to give way ]E
+[how many floors]C[crash]R[ it ]E
+[it would crash through]C[if]R[ it were to give way ]E
+[a wonderful chandelier]C[from]R[ the ceiling centre , made of copper and ormolu , burning seventy-two lights , and of such enormous size that one wonders how many floors it would crash through if it were to give way ]E
+[it]C[were]R[ to give way ]E
+[it were to]C[give]R[ way ]E
+[of copper and ormolu]C[made]R[ burning seventy-two lights ]E
+[I]C[learn]R[ that it is supported by concealed cross-beams hidden away under the ceiling ]E
+[the ceiling centre made of copper and ormolu ,]C[burning]R[ seventy-two lights ]E
+[it]C[supported]R[ by concealed cross-beams hidden away under the ceiling ]E
+[the ceiling centre , made]C[of]R[ such enormous size ]E
+[concealed cross-beams hidden away]C[under]R[ the ceiling ]E
+-
+[I]C[heard]R[ a story  heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen ]E
+[she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet ,]C[because]R[ if you do n't I will turn you into a Queen  if you do n't I will turn you into a Queen ]E
+[on one occasion , in playing with her dolls , she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen]C[that]R[ on one occasion , in playing with her dolls , she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen ]E
+[one occasion]C[in]R[ playing with her dolls ]E
+[I]C[turn]R[ you ]E
+[I heard a story that on one occasion , in playing]C[with]R[ her dolls ]E
+[I will turn you]C[into]R[ a Queen ]E
+[she]C[heard]R[ to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen ]E
+[she was thus heard to]C[speak]R[ to a supposed refractory one ]E
+[you I heard a story that on one occasion , in playing with her dolls , she was thus heard to speak to a supposed refractory one : `` Now , be good and quiet , because if you do n't I will turn you into a Queen]C[have]R[ anyone ]E
+[you will not have anyone to play]C[with]R[ at all ]E
+-
+[you do not consent to do what I ask of you]C[If]R[ ``  If you do not consent to do what I ask of you  help you off with your helmet , but I will call in all your neighbours  help ]E
+[I]C[call]R[ in all your neighbours ]E
+[you]C[consent]R[ to do what I ask of you ]E
+[you do not consent to]C[do]R[ what I ask of you ]E
+[I]C[help]R[ you ]E
+[what I]C[ask]R[ of you ]E
+[I not help you off with your helmet , but I will call in all your neighbours , and then]C[go]R[ the Municipal Council ]E
+[I not help you off]C[with]R[ your helmet ]E
+-
+[the grasshopper -- like the cricket --]C[has]R[ a chirp consisting of three notes in rhythm , always forming a triplet in the key of B . She knew that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[there is any truth in the story]C[If]R[ If there is any truth in the story  had  had ]E
+[her]C[own]R[ she hardly cared about just then ]E
+[a chirp consisting]C[of]R[ three notes in rhythm ]E
+[she]C[cared]R[ about just ]E
+[any truth]C[in]R[ the story ]E
+[three notes]C[in]R[ rhythm ]E
+[the grasshopper]C[had]R[ powers far in advance of his degenerated descendants ]E
+[a chirp consisting of three notes]C[in]R[ the key of B . She knew that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[far]C[in]R[ advance ]E
+[the key]C[of]R[ B . She knew that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[powers]C[of]R[ his degenerated descendants ]E
+[She B .]C[knew]R[ that if she moved her baby 's life was gone -- her own she hardly cared about just then ]E
+[now]C[for]R[ for now  has  has ]E
+[she]C[moved]R[ her baby 's life was gone ]E
+[the grasshopper]C[like]R[ the cricket ]E
+-
+[you]C[tear]R[ it ]E
+[I let you out of this room without having shown it me , then]C[if]R[ But  if I let you out of this room without having shown it me , then if there 's something you do n't want me to see  tear it up or chuck it in the fire  tear it up ]E
+[you 'll tear it up or]C[chuck]R[ it ]E
+[I]C[let]R[ you ]E
+[you 'll tear it up or chuck it]C[in]R[ the fire ]E
+[I let you out]C[of]R[ this room ]E
+[I let you out of this room]C[without]R[ having shown it me ]E
+[I let you out of this room without having shown it]C[me]R[ it ]E
+[I let you out of this room without having shown it me , then]C[if]R[ there 's something you do n't want me to see ]E
+[you something]C[want]R[ me to see  me to see ]E
+-
+[you find you do n't like it]C[If]R[ If you find you do n't like it  have to go away again  have ]E
+[you]C[find]R[ you do n't like it ]E
+[you]C[have]R[ to go away again ]E
+[you]C[like]R[ it ]E
+[stand]C[as]R[ you say ]E
+-
+[She]C[leant]R[ back and half closed her eyes , as if in thought ; then started up with one finger out ]E
+[She leant back and half closed her eyes , as if in thought ; then started up]C[with]R[ with  out ]E
+[back]C[half]R[ her eyes ]E
+-
+[in three months you write to me again in the same strain , still desiring to be free]C[If]R[ If in three months you write to me again in the same strain , still desiring to be free  think of it , though I 'm not sure that I should do it even then  think  in three months you write to me again in the same strain , still desiring to be free ]E
+[I]C[do]R[ it ]E
+[you]C[write]R[ still desiring to be free  to me ]E
+[again]C[in]R[ the same strain ]E
+[you write to me again in the same strain , still]C[desiring]R[ to be free ]E
+[I]C[think]R[ of it ]E
+[I will think of it ,]C[though]R[ I 'm not sure that I should do it even then ]E
+[I]C[sure]R[ that I should do it even then ]E
+-
+[I]C[see]R[ that ; if I were going to take Bruce at his word , then it would be different , of course ]E
+[I do n't see that ;]C[if]R[ I were going to take Bruce at his word , then it would be different ]E
+[that ; if I were going to take Bruce at his word , then it would be different ,]C[of]R[ course ]E
+[I]C[going]R[ to take Bruce at his word ]E
+[I were going to]C[take]R[ Bruce at his word ]E
+[Bruce]C[at]R[ his word ]E
+-
+[I]C[suppose]R[ if there 's a certain predicament -- then -- Oh , Edith -- are you unhappy ]E
+-
+[you]C[tear]R[ it ]E
+[I let you out of this room without having shown it me , then]C[if]R[ But  if I let you out of this room without having shown it me , then if there 's something you do n't want me to see  tear it up or chuck it in the fire  tear it up ]E
+[you 'll tear it up or]C[chuck]R[ it ]E
+[I]C[let]R[ you ]E
+[you 'll tear it up or chuck it]C[in]R[ the fire ]E
+[I let you out]C[of]R[ this room ]E
+[I let you out of this room]C[without]R[ having shown it me ]E
+[I let you out of this room without having shown it]C[me]R[ it ]E
+[I let you out of this room without having shown it me , then]C[if]R[ there 's something you do n't want me to see ]E
+[you something]C[want]R[ me to see  me to see ]E
+-
+[you find you do n't like it]C[If]R[ If you find you do n't like it  have to go away again  have ]E
+[you]C[find]R[ you do n't like it ]E
+[you]C[have]R[ to go away again ]E
+[you]C[like]R[ it ]E
+[stand]C[as]R[ you say ]E
+-
+[She]C[leant]R[ back and half closed her eyes , as if in thought ; then started up with one finger out ]E
+[She leant back and half closed her eyes , as if in thought ; then started up]C[with]R[ with  out ]E
+[back]C[half]R[ her eyes ]E
+-
+[in three months you write to me again in the same strain , still desiring to be free]C[If]R[ If in three months you write to me again in the same strain , still desiring to be free  think of it , though I 'm not sure that I should do it even then  think  in three months you write to me again in the same strain , still desiring to be free ]E
+[I]C[do]R[ it ]E
+[you]C[write]R[ to me  still desiring to be free ]E
+[again]C[in]R[ the same strain ]E
+[you write to me again in the same strain , still]C[desiring]R[ to be free ]E
+[I]C[think]R[ of it ]E
+[I will think of it ,]C[though]R[ I 'm not sure that I should do it even then ]E
+[I]C[sure]R[ that I should do it even then ]E
+-
+[I]C[see]R[ that ; if I were going to take Bruce at his word , then it would be different , of course ]E
+[I do n't see that ;]C[if]R[ I were going to take Bruce at his word , then it would be different ]E
+[that ; if I were going to take Bruce at his word , then it would be different ,]C[of]R[ course ]E
+[I]C[going]R[ to take Bruce at his word ]E
+[I were going to]C[take]R[ Bruce at his word ]E
+[Bruce]C[at]R[ his word ]E
+-
+[I]C[suppose]R[ if there 's a certain predicament -- then -- Oh , Edith -- are you unhappy ]E
+-
+[you]C[be]R[ with God ]E
+[]C[If]R[ you believe in Jesus ]E
+[you < 10022/10022 .]C[believe]R[ in Jesus ]E
+[you , too , will be with God and will]C[see]R[ your son ]E
+-
+[it is His will that I should die]C[If]R[ If it is His will that I should die  be done  done ]E
+[it]C[will]R[ that I should die ]E
+-
+[it is not Your will that my work is successful here]C[If]R[ If it is not Your will that my work is successful here  send  send ]E
+[I]C[work]R[ best for You ]E
+[it]C[will]R[ that my work is successful here  will that my work is successful here  send  send ]E
+[best]C[for]R[ You ]E
+-
+[the tribe]C[kill]R[ all his wives and slaves ]E
+[the chief dies , then according to their heathen way]C[If]R[ ``  If the chief dies , then according to their heathen way  kill all his wives and slaves so he will have company on the long trip to the spirit-world  kill ]E
+[wives the tribe will kill all his wives and]C[slaves]R[ so he will have company on the long trip to the spirit-world ]E
+[the chief dies , then]C[according]R[ to their heathen way ]E
+[he]C[have]R[ company on the long trip ]E
+[company]C[on]R[ the long trip ]E
+[he will have company on the long trip]C[to]R[ the spirit-world ]E
+-
+[I]C[let]R[ all go free but Mojo , Otinga , and Obwe ]E
+[Bwana Ovens will make a fine box for my son]C[If]R[ If Bwana Ovens will make a fine box for my son  let all go free but Mojo , Otinga , and Obwe  let ]E
+[all go free]C[but]R[ Mojo , Otinga , and Obwe ]E
+[Bwana Ovens]C[make]R[ a fine box for my son ]E
+[a fine box]C[for]R[ my son ]E
+[If Bwana Ovens will make a fine box for my son then I will let all go free but Mojo , Otinga , and Obwe]C[said]R[ Chief Edem ]E
+-
+[you]C[take]R[ two armed men ]E
+[you must go]C[If]R[ ``  If you must go  take two armed men with you  take ]E
+[you must take two armed men]C[with]R[ you ]E
+-
+[then you]C[do]R[ your work ]E
+[God does not send you into the jungle with me]C[If]R[ If God does not send you into the jungle with me  do your work  do  I must do mine where we have been placed ]E
+[God]C[send]R[ you ]E
+[I If God does not send you into the jungle with me , then you must]C[do]R[ mine ]E
+[God does not send you]C[into]R[ the jungle with me ]E
+[the jungle]C[with]R[ me ]E
+-
+[you happened to]C[have]R[ one ]E
+[then]C[told]R[ him ]E
+[your grandfather -- if by fortunate chance you happened to have one --]C[asked]R[ after his wife and children ]E
+[by fortunate chance you happened to have one]C[if]R[ by fortunate chance you happened to have one ]E
+[your grandfather -- if by fortunate chance you happened to have one -- asked after his wife and children they]C[missed]R[ the croup ]E
+[you]C[happened]R[ to have one ]E
+-
+[on a rare occasion my grandfather took it in his hand]C[if]R[ But  if on a rare occasion my grandfather took it in his hand  lay  lay  on a rare occasion my grandfather took it in his hand ]E
+[Dolly lay one ear back]C[in]R[ our direction ]E
+[Dolly lay one ear back in our direction ,]C[for]R[ she knew then he meant business ]E
+[my grandfather]C[took]R[ it ]E
+[she]C[knew]R[ he meant business ]E
+[my grandfather took it]C[in]R[ his hand ]E
+[he]C[meant]R[ business ]E
+-
+[]C[if]R[ you , reader -- for I assume you to be one of the gathering audience -- were of the kind careful on scrubbing days to scrape your feet upon the iron outside and to cross the kitchen on the unwashed parts ]E
+[reader -- for I assume you to be one of the gathering audience -- were of the kind careful on scrubbing days to scrape your feet upon the iron outside and to]C[cross]R[ the kitchen ]E
+[I assume you to be one of the gathering audience]C[for]R[ for I assume you to be one of the gathering audience -- were of the kind careful on scrubbing days to scrape your feet upon the iron outside and to cross the kitchen on the unwashed parts  likely  likely ]E
+[reader -- for I assume you to be one of the gathering audience -- were of the kind careful]C[on]R[ the unwashed parts ]E
+[I]C[assume]R[ you to be one of the gathering audience  you to be one of the gathering audience ]E
+[I assume you to be]C[one]R[ of the gathering audience ]E
+[then it]C[likely]R[ that you stood in the good graces of the cook ]E
+[reader -- for I assume you to be one of the gathering audience -- you]C[were]R[ of the kind careful on scrubbing days to scrape your feet upon the iron outside and to cross the kitchen on the unwashed parts ]E
+[you]C[stood]R[ in the good graces of the cook ]E
+[careful]C[on]R[ on the unwashed parts ]E
+[the good graces]C[of]R[ the cook ]E
+[reader -- for I assume you to be one of the gathering audience -- were of the kind careful on scrubbing days to scrape your feet]C[upon]R[ the iron outside ]E
+-
+[then , you taunt me , for want of a better escape]C[If]R[ If then , you taunt me , for want of a better escape  turn it to a jest  turn ]E
+[I]C[turn]R[ it ]E
+[I shall turn it]C[to]R[ a jest ]E
+[you]C[taunt]R[ me ]E
+[you taunt me ,]C[for]R[ want of a better escape ]E
+[you taunt me , for want]C[of]R[ a better escape ]E
+-
+[it]C[For]R[ < 10024 . txt >  For it  written of him that `` he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at , -- and then he was as blithe as a schoolboy out for a holiday  written ]E
+[< 10024 . txt >]C[written]R[ of him  that `` he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at , -- and then he was as blithe as a schoolboy out for a holiday ]E
+[he `` he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at ,]C[blithe]R[ as a schoolboy out ]E
+[< 10024 . txt > is written of him]C[that]R[ `` he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at , -- and then he was as blithe as a schoolboy out for a holiday ]E
+[he was as blithe as a schoolboy out]C[for]R[ a holiday ]E
+[he was always as sour as]C[if]R[ he had swallowed a pint of vinegar except when he was being shot at ]E
+[he]C[swallowed]R[ a pint of vinegar ]E
+[a pint]C[of]R[ vinegar ]E
+[he had swallowed a pint of vinegar]C[except]R[ when he was being shot at ]E
+-
+[love 's the best of all that can]C[If]R[ a man befall ; Then Jack 's the king of all -- for they all love Jack ; < 10024-8 . txt > ]E
+[it]C[written]R[ of him  that `` he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at ]E
+[love]C[best]R[ of all that can ]E
+[If love 's the best of all that can a man befall ; Then Jack 's the king of all -- for they all love Jack ; < 10024-8 . txt > For it is written of him that `` he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at , he]C[blithe]R[ as a schoolboy out ]E
+[it is written of him]C[that]R[ he was always as sour as if he had swallowed a pint of vinegar except when he was being shot at ]E
+[all]C[can]R[ that ]E
+[he was as blithe as a schoolboy out]C[for]R[ a holiday ]E
+[he was always as sour as]C[if]R[ he had swallowed a pint of vinegar except when he was being shot at ]E
+[Jack]C[king]R[ of all -- for they all love Jack ; < 10024-8 . txt > ]E
+[he]C[swallowed]R[ a pint of vinegar ]E
+[a pint]C[of]R[ vinegar ]E
+[they]C[for]R[ all love Jack ; < 10024-8 ]E
+[he had swallowed a pint of vinegar]C[except]R[ when he was being shot at ]E
+-
+[love 's the best of all that can]C[If]R[ If love 's the best of all that can  befall  befall ]E
+[Jack 's the king of all -- for they all love Jack ; < 10025 . txt > At seven o'clock , over a dish of lamb stew _ a la _ White Kitchen , he confessed , and if Miss Slayback affected too great surprise and too little indignation ,]C[try]R[ to conceive six nine-hour week-in-and-week-out days of hair-pins and darning-balls , and then , at a heliotrope dusk , James P. Batch , in invitational mood , stepping in between it and the papered walls of a dun-colored evening ]E
+[Jack 's the king of all -- for they all love Jack ; < 10025 . txt > At seven o'clock , over a dish of lamb stew _ a la _ White Kitchen , he confessed , and if Miss Slayback affected too great surprise and too little indignation , try to]C[conceive]R[ six nine-hour week-in-and-week-out days of hair-pins and darning-balls ]E
+[love]C[best]R[ of all that can ]E
+[all]C[can]R[ that ]E
+[six nine-hour week-in-and-week-out days]C[of]R[ hair-pins and darning-balls ]E
+[Jack 's the king of all -- for they all love Jack ; < 10025 . txt > At seven o'clock , over a dish of lamb stew _ a la _ White Kitchen , he confessed , and if Miss Slayback affected too great surprise and too little indignation , try to conceive six nine-hour week-in-and-week-out days of hair-pins and darning-balls , and then ,]C[at]R[ a heliotrope dusk , James P. Batch , in invitational mood , stepping in between it and the papered walls of a dun-colored evening ]E
+[the king]C[of]R[ all ]E
+[Jack 's the king of all --]C[for]R[ they all love Jack ; < 10025 . txt > At seven o'clock , over a dish of lamb stew _ a la _ White Kitchen , he confessed , and if Miss Slayback affected too great surprise and too little indignation ]E
+[a heliotrope dusk , James P. Batch ,]C[in]R[ invitational mood ]E
+[a heliotrope dusk , James P. Batch , stepping in]C[between]R[ it and the papered walls of a dun-colored evening ]E
+[Jack ; < 10025 . txt >]C[At]R[ seven o'clock , over a dish of lamb stew _ ]E
+[seven o'clock]C[over]R[ a dish of lamb stew _ ]E
+[it]C[walls]R[ of a dun-colored evening ]E
+[a dish]C[of]R[ lamb stew _ ]E
+[Jack ; < 10025 . txt >]C[la]R[ _ White Kitchen ]E
+[they love Jack ; < 10025 . txt > At seven o'clock , over a dish of lamb stew _ a la _ White Kitchen , he confessed , and]C[if]R[ Miss Slayback affected too great surprise and too little indignation ]E
+[Miss Slayback Jack ; < 10025 . txt > At seven o'clock , over a dish of lamb stew _ a la _ White Kitchen , he confessed]C[affected]R[ too great surprise and too little indignation ]E
+-
+[the motion-picture theater has brought to thousands of young city starvelings , if not the quietude of the home , then]C[at]R[ least ]E
+[a deep darkness that]C[lave]R[ the sub-basement throb of temples ]E
+[Be the landlady 's front parlor ever so permanently rented out the motion-picture theater]C[brought]R[ to thousands of young city starvelings , if not the quietude of the home , then at least the warmth and a juxtaposition and a deep darkness that can lave the sub-basement throb of temples ]E
+[the sub-basement throb]C[of]R[ temples ]E
+[thousands]C[of]R[ young city starvelings ]E
+[the motion-picture theater has brought to thousands of young city starvelings , if not the quietude of the home , then at least the warmth and a juxtaposition and a deep darkness that can lave the sub-basement throb of temples and is]C[filled]R[ with music ]E
+[the motion-picture theater has brought to thousands of young city starvelings , if not the quietude of the home , then at least the warmth and a juxtaposition and a deep darkness that can lave the sub-basement throb of temples and is filled]C[with]R[ a hum in it ]E
+[thousands of young city starvelings]C[quietude]R[ of the home , then at least the warmth and a juxtaposition and a deep darkness that can lave the sub-basement throb of temples ]E
+[a hum]C[in]R[ it ]E
+-
+[you]C[keep]R[ putting off the lease , ma , if it 's only for six months , and then we -- we 'll all be to -- '' A long envelope lay uppermost on that desk  putting off the lease , ma , if it 's only for six months , and then we -- we 'll all be to -- '' A long envelope lay uppermost on that desk ]E
+[you can keep putting off the lease , ma , if it 's only for six months , and then we -- we 'll all be to -- '' A long envelope lay uppermost]C[on]R[ that desk ]E
+[she Why , you can keep putting off the lease , ma , if it 's only for six months , and then we -- we 'll all be to -- '' A long envelope lay uppermost on that desk]C[took]R[ it ]E
+[you can keep putting off the lease , ma ,]C[if]R[ it 's only for six months ]E
+[it 's only]C[for]R[ six months ]E
+[them squeezed tight as]C[if]R[ she would press back a vision ]E
+[she]C[press]R[ a vision ]E
+-
+[]C[if]R[ a poor working-girl do n't want to make it everyb ]E
+[a poor working-girl]C[want]R[ to make it everyb ]E
+[a poor working-girl do n't want to]C[make]R[ it everyb ]E
+[a poor working-girl do n't want to make it]C[everyb]R[ it ]E
 -

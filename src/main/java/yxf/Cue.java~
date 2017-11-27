@@ -153,9 +153,9 @@ public class Cue {
 	public void print(BufferedWriter f) throws IOException{
 		
 		
-		f.write("["+causeString+"]C");
-		f.write("["+coreCue.get(0).value()+"]R");
-		f.write("["+effectString+"]E");
+		f.write("{"+causeString+"}");
+		f.write("{"+coreCue.get(0).value()+"}");
+		f.write("{"+effectString+"}");
 		f.newLine();
 		f.flush();
 		

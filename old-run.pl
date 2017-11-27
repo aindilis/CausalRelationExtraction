@@ -28,44 +28,18 @@ $fh->close;
 
 system "java -cp target/causal-relation-extraction-1.0-SNAPSHOT.jar:/home/andrewdo/.m2/repository/edu/stanford/nlp/stanford-parser/3.4.1/stanford-parser-3.4.1.jar:/var/lib/myfrdcsa/sandbox/stanford-parser-20140827/stanford-parser-20140827/stanford-parser-3.4.1-models.jar org.frdcsa.causalrelationextraction.App \"./data/sentences.txt\"";
 
-my $c = read_file('data/relations.txt');
-my $results = {};
-my $sentenceid = 0;
+my $c = read_file('./data/relations.txt');
+
+my $i = 1;
+my $allitems = {};
+my $items = {};
 foreach my $line (split /\n/, $c) {
-  ++$sentenceid;
-  print "<$line>\n";
-  my $depth = 0;
-  my $rec = [];
-  my $state = 0;
-  foreach my $char (split //, $line) {
-    if ($char eq '[') {
-      ++$depth;
-      $rec->[$depth] = [];
-    } elsif ($char eq ']') {
-      if ($depth > 0) {
-	$state = 1;
-      } else {
-	die "oops!\n";
-      }
-    } elsif ($state == 1) {
-      if (! exists $rec->[$depth]) {
-	$rec->[$depth] = [$char];
-      }
-      if (exists $rec->[$depth]) {
-	if (! exists $results->{$sentenceid}{$char}) {
-	  $results->{$sentenceid}{$char} = [];
-	}
-	my @copy = @{$rec->[$depth]};
-	push @{$results->{$sentenceid}{$char}}, join('',@copy);
-      }
-      $state = 0;
-      --$depth;
-    } else {
-      for ($i = 1; $i <= $depth; ++$i) {
-	push @{$rec->[$i]}, $char;
-      }
-    }
+  if ($line =~ /^\{(.*)\}\{(.*)\}\{(.*)\}$/) {
+    $items->{$i}{$1}{$2}{$3} = 1;
+    $allitems->{$1}{$2}{$3} = 1;
+  } elsif ($line =~ /^-$/) {
+    print $i++."\n";
   }
 }
 
-print Dumper($results);
+print Dumper({Items => $items, AllItems => $items});
